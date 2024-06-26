@@ -1,0 +1,112 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+
+<title>Life on the Rivers Edge: Comment on A breathe of fresh air from Salem</title>
+
+<link rel="stylesheet" href="http://www.ontheriversedge.com/styles-comment.css" type="text/css" />
+
+<script type="text/javascript" language="javascript">
+<!--
+
+var HOST = 'www.ontheriversedge.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+</head>
+
+<body>
+
+<div id="banner-commentspop">
+Life on the Rivers Edge
+</div>
+
+<div class="blog">
+
+<div class="comments-head">Comments: A breathe of fresh air from Salem</div>
+
+
+<div class="comments-body">
+<p>I'm glad this seems like a breath of fresh air to you. Maybe it’s the election year allergies that have clogged the liberal minds of this nation. Because this smells like the same stuff they’ve been blowing for years. The first question, asked in the interview, John Edwards doesn’t even answer, other then "having the government involved" and more spending. And when an (independent) think tank disagrees with Edwards its branded "false", "not true", and "right-wing" he later clarifies that there is "no new government program" in Kerry's plan.  I am glad though that they found a "non-partisan" health economist like, former President Clinton advisor, Ken Thorpe to help. As far as the malpractice insurance cases, do you not remember that Edwards got his riches as a trial lawyer? Edwards' specialty was suing (for millions of dollars) when babies were born with brain defects. Which he, like other lawyers cashing in on junk science and gullible juries, blamed on the failure of doctors to have had those babies delivered by C-section. Your right though, this writer did report on what was said. To bad the liberal censors didn't get to him first.</p>
+<span class="comments-post">Posted by <a href="mailto&#58;t_bird_madison&#64;msn&#46;com">right-wing eucher mate</a> at September 24, 2004 01:51 AM</span>
+</div>
+<div class="comments-body">
+<p>2286 <a href="http://www.e-slots.info">http://www.e-slots.info</a> slots click here to play <br />
+online slots</p>
+<span class="comments-post">Posted by <a href="http://www.ontheriversedge.com/movabletype/mt-comments.cgi?__mode=red&amp;id=216">http://www.e-slots.info</a> at October 31, 2004 10:11 AM</span>
+</div>
+<div class="comments-body">
+<p>8530 <a href="http://video-poker.ownsthis.com">http://video-poker.ownsthis.com</a> </p>
+
+<p>this is a site for video poker. kick back, relax and online video poker.</p>
+<span class="comments-post">Posted by <a href="http://www.ontheriversedge.com/movabletype/mt-comments.cgi?__mode=red&amp;id=217">http://video-poker.ownsthis.com</a> at October 31, 2004 10:12 AM</span>
+</div>
+<div class="comments-body">
+<p>3989 <a href="http://poker-online-a.6x.to">http://poker-online-a.6x.to</a></p>
+
+<p>poker online</p>
+<span class="comments-post">Posted by <a href="http://www.ontheriversedge.com/movabletype/mt-comments.cgi?__mode=red&amp;id=220">poker online</a> at November  1, 2004 10:27 PM</span>
+</div>
+
+
+
+
+</div>
+
+</body>
+</html>

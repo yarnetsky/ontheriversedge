@@ -1,0 +1,10 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html><head><title>Redirecting...</title>
+<meta name="robots" content="noindex, nofollow">
+<script type="text/javascript">
+window.onload = function() { document.location = document.links[0].href; };
+</script></head>
+<body>
+<p><a href="http://breakyourpen.blogspot.com">Click here</a> if you are not redirected</p>
+</body>
+</html>

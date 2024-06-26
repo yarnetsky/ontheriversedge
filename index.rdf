@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:cc="http://web.resource.org/cc/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="http://www.ontheriversedge.com/">
+<title>Life on the Rivers Edge</title>
+<link>http://www.ontheriversedge.com/</link>
+<description>Fact and Fiction from America&apos;s most beautiful rivertown.</description>
+<dc:language>en-us</dc:language>
+<dc:creator></dc:creator>
+<dc:date>2005-04-30T21:47:31-05:00</dc:date>
+<admin:generatorAgent rdf:resource="http://www.movabletype.org/?v=2.661" />
+
+
+<items>
+<rdf:Seq><rdf:li rdf:resource="http://www.ontheriversedge.com/archives/000573.html" />
+<rdf:li rdf:resource="http://www.ontheriversedge.com/archives/000572.html" />
+<rdf:li rdf:resource="http://www.ontheriversedge.com/archives/000571.html" />
+<rdf:li rdf:resource="http://www.ontheriversedge.com/archives/000570.html" />
+<rdf:li rdf:resource="http://www.ontheriversedge.com/archives/000569.html" />
+<rdf:li rdf:resource="http://www.ontheriversedge.com/archives/000568.html" />
+<rdf:li rdf:resource="http://www.ontheriversedge.com/archives/000567.html" />
+<rdf:li rdf:resource="http://www.ontheriversedge.com/archives/000565.html" />
+<rdf:li rdf:resource="http://www.ontheriversedge.com/archives/000564.html" />
+<rdf:li rdf:resource="http://www.ontheriversedge.com/archives/000563.html" />
+<rdf:li rdf:resource="http://www.ontheriversedge.com/archives/000562.html" />
+<rdf:li rdf:resource="http://www.ontheriversedge.com/archives/000561.html" />
+<rdf:li rdf:resource="http://www.ontheriversedge.com/archives/000560.html" />
+<rdf:li rdf:resource="http://www.ontheriversedge.com/archives/000559.html" />
+<rdf:li rdf:resource="http://www.ontheriversedge.com/archives/000558.html" />
+</rdf:Seq>
+</items>
+
+</channel>
+
+<item rdf:about="http://www.ontheriversedge.com/archives/000573.html">
+<title>I&apos;m scritchin a Tiger between the ears</title>
+<link>http://www.ontheriversedge.com/archives/000573.html</link>
+<description>This morning I starred at the ring of fire and leaped through to Mac OS X 10.4 Tiger. I&apos;ve been playing with it on and off all a day and it is one sweet cat. I get an educational discount...</description>
+<dc:subject>Macs &amp; Tech</dc:subject>
+<dc:creator>egyarnetsky</dc:creator>
+<dc:date>2005-04-30T21:47:31-05:00</dc:date>
+</item>
+<item rdf:about="http://www.ontheriversedge.com/archives/000572.html">
+<title>*whew* I&apos;m done. Two week break coming up.</title>
+<link>http://www.ontheriversedge.com/archives/000572.html</link>
+<description>We&apos;ll as of 3:30 p.m. today I was done with the first semester of grad school. Six credits down, 30 credits to go. I turned in my two final projects. I think I did a good job on them. When...</description>
+<dc:subject>Grad School</dc:subject>
+<dc:creator>egyarnetsky</dc:creator>
+<dc:date>2005-04-29T23:18:55-05:00</dc:date>
+</item>
+<item rdf:about="http://www.ontheriversedge.com/archives/000571.html">
+<title>Weird April weather</title>
+<link>http://www.ontheriversedge.com/archives/000571.html</link>
+<description>Driving home from Indianapolis after classes last night was a real experience. The sky turned green and I can&apos;t even begin to describe what the clouds looked like. Sufice it to say that they weren&apos;t the usual flat bottomed cumulonimbus....</description>
+<dc:subject>Madison</dc:subject>
+<dc:creator>egyarnetsky</dc:creator>
+<dc:date>2005-04-23T14:15:49-05:00</dc:date>
+</item>
+<item rdf:about="http://www.ontheriversedge.com/archives/000570.html">
+<title>&quot;Madison&quot; premieres tomorrow</title>
+<link>http://www.ontheriversedge.com/archives/000570.html</link>
+<description>Jim Caviezel and Jake Lloyd will be in Madison tomorrow for the premiere of &quot;Madison.&quot; There will be a red carpet event at our favorite movie palace-- the 1938 art deco Ohio Theatre. Apparently there is a dress code for...</description>
+<dc:subject>Madison</dc:subject>
+<dc:creator>egyarnetsky</dc:creator>
+<dc:date>2005-04-16T21:14:20-05:00</dc:date>
+</item>
+<item rdf:about="http://www.ontheriversedge.com/archives/000569.html">
+<title>In your honor-- a slime-mold beetle...</title>
+<link>http://www.ontheriversedge.com/archives/000569.html</link>
+<description>This is great! Two former Cornell University enntomologist named three newly discovered species of Yahoo! News - Beetles Get Politically Prominent Names &quot; href=&quot;http://news.yahoo.com/news?tmpl=story&amp;u=/ap/20050413/ap_on_fe_st/political_beetles&quot;&gt;slime-mold bettles after three of our &quot;favorite&quot; American Leaders: Agathidium bushi Miller and Wheeler, Agathidium cheneyi Miller...</description>
+<dc:subject>Politics</dc:subject>
+<dc:creator>egyarnetsky</dc:creator>
+<dc:date>2005-04-13T21:52:30-05:00</dc:date>
+</item>
+<item rdf:about="http://www.ontheriversedge.com/archives/000568.html">
+<title>Madison...the movie</title>
+<link>http://www.ontheriversedge.com/archives/000568.html</link>
+<description>Well, after many years of waiting, &quot;Madison&quot; the movie will finally premiere in our wonderful rivertown this weekend and on April 22 will be released in cities around the country that understand hydroplane racing. If it suceeds there, it will...</description>
+<dc:subject>Madison</dc:subject>
+<dc:creator>egyarnetsky</dc:creator>
+<dc:date>2005-04-11T21:28:56-05:00</dc:date>
+</item>
+<item rdf:about="http://www.ontheriversedge.com/archives/000567.html">
+<title>The coming oil crash?</title>
+<link>http://www.ontheriversedge.com/archives/000567.html</link>
+<description>I take every &quot;doomsday scenarios&quot; with a certain amount of caution as it is hard to sift out good science from junk science. It is harder today with interest groups purposefully introducing junk science or junk reasoning to undermine the...</description>
+<dc:subject>Politics</dc:subject>
+<dc:creator>egyarnetsky</dc:creator>
+<dc:date>2005-04-10T11:43:23-05:00</dc:date>
+</item>
+<item rdf:about="http://www.ontheriversedge.com/archives/000565.html">
+<title>Spring fever</title>
+<link>http://www.ontheriversedge.com/archives/000565.html</link>
+<description>It&apos;s a beautiful day in good old Madison, Indiana. You can look down the streets and see pink and white blossoms and verdant new leaves poking out of the branches. I&apos;m doing homework and Darlene mudding the drywall in her...</description>
+<dc:subject>Life</dc:subject>
+<dc:creator>egyarnetsky</dc:creator>
+<dc:date>2005-04-09T19:02:51-05:00</dc:date>
+</item>
+<item rdf:about="http://www.ontheriversedge.com/archives/000564.html">
+<title>A day late and a fastball short</title>
+<link>http://www.ontheriversedge.com/archives/000564.html</link>
+<description>Darlene yesterday kept telling me I had to read about the greatest sports April Fools&apos; Day joke ever. I didn&apos;t get to it until a few minutes ago, but she&apos;s right-- it&apos;s a gem. Thus I present to you (a...</description>
+<dc:subject>On the News</dc:subject>
+<dc:creator>egyarnetsky</dc:creator>
+<dc:date>2005-04-02T21:22:24-05:00</dc:date>
+</item>
+<item rdf:about="http://www.ontheriversedge.com/archives/000563.html">
+<title>Only in Madison</title>
+<link>http://www.ontheriversedge.com/archives/000563.html</link>
+<description>It&apos;s been a beautiful day today. A good day for bike riding .... and bike buying. Since last summer we&apos;ve been saying we&apos;d go over to Fizz&apos;z Bike Shop here downtown and get a bike ordered for Darlene. For fun,...</description>
+<dc:subject>Madison</dc:subject>
+<dc:creator>egyarnetsky</dc:creator>
+<dc:date>2005-03-30T19:04:43-05:00</dc:date>
+</item>
+<item rdf:about="http://www.ontheriversedge.com/archives/000562.html">
+<title>I feel so dirty</title>
+<link>http://www.ontheriversedge.com/archives/000562.html</link>
+<description>When I started grad school I figured I&apos;d never again have an opportunity to purchase affordable software so I purchased about everything that made sense. Mind you, I&apos;ve been so busy I haven&apos;t had time to use any of it....</description>
+<dc:subject>Macs &amp; Tech</dc:subject>
+<dc:creator>egyarnetsky</dc:creator>
+<dc:date>2005-03-29T23:28:47-05:00</dc:date>
+</item>
+<item rdf:about="http://www.ontheriversedge.com/archives/000561.html">
+<title>The return of Billmon&apos;s Whiskey Bar</title>
+<link>http://www.ontheriversedge.com/archives/000561.html</link>
+<description>One of my favorite bloggers is Billmon over at the Whiskey Bar. He had taken a sabatical as the election wound down and we all missed his voice. Well, he&apos;s now back and doing something rather interesting. Many of his...</description>
+<dc:subject>On the Web</dc:subject>
+<dc:creator>egyarnetsky</dc:creator>
+<dc:date>2005-03-28T21:57:49-05:00</dc:date>
+</item>
+<item rdf:about="http://www.ontheriversedge.com/archives/000560.html">
+<title>Boy am I buzzin&apos;</title>
+<link>http://www.ontheriversedge.com/archives/000560.html</link>
+<description>Well, I just finished my mid-term exam in collection development and my body is buzzing. I had forgotten what it&apos;s like to come off of an adrenaline high. I think I did pretty well on it. Our prof drew a...</description>
+<dc:subject>Grad School</dc:subject>
+<dc:creator>egyarnetsky</dc:creator>
+<dc:date>2005-03-25T16:19:41-05:00</dc:date>
+</item>
+<item rdf:about="http://www.ontheriversedge.com/archives/000559.html">
+<title>Don&apos;t pay attention to the man behind the curtain</title>
+<link>http://www.ontheriversedge.com/archives/000559.html</link>
+<description>Interesting stuff coming out of Washington -- hearings over steroids in baseball and emergency legislation specifically for the parents of Terry Sorvino. What are we not hearing about? Corruption in government (Tom Delay and taxpayer financed propaganda), Social Security, Medicare,...</description>
+<dc:subject>On the News</dc:subject>
+<dc:creator>egyarnetsky</dc:creator>
+<dc:date>2005-03-22T23:10:35-05:00</dc:date>
+</item>
+<item rdf:about="http://www.ontheriversedge.com/archives/000558.html">
+<title>Vacation all I ever wanted...</title>
+<link>http://www.ontheriversedge.com/archives/000558.html</link>
+<description>Just finished our five day mini-vacation. Three days of homework and two days of partying. It was a good combo. Darlene and I celebrated our 15th wedding anniversary down in Louisville, Ky., the romance capital of the world for the...</description>
+<dc:subject>Life</dc:subject>
+<dc:creator>egyarnetsky</dc:creator>
+<dc:date>2005-03-22T22:46:20-05:00</dc:date>
+</item>
+
+
+</rdf:RDF>

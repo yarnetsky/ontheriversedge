@@ -1,0 +1,207 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<link rel="stylesheet" href="http://www.ontheriversedge.com/css.php?n=default" type="text/css" />
+		<title>Life on the Rivers Edge: Archives</title>
+
+		<style type="text/css" media="screen">
+						body	 	{ background: #232F23; }	
+			#page		{ background: url("images/11.gif") repeat-y top; border-left: 2px solid #083013; border-right: 2px solid #083013;} 		
+
+			
+			#footer 	{ background: url("images/kubrickfooter.jpg") no-repeat bottom; border: none;}
+		</style>
+
+	</head>
+
+
+<body>
+<div id="page">
+<div id="header">
+			
+<img src="/images/10.jpg" alt="Life on the River's Edge" title="Egyptian goose on the banks of the Ohio River" style="height:160px;width:760px" />
+
+
+</div>
+<div id="navcontainer">		
+	<ul>
+
+<li><a href="http://www.ontheriversedge.com">Home</a></li>
+<li><a class="selected" href="/index.php?s=archives">Archives</a></li>
+<li><a href="/index.php?s=links">Links . About</a></li>
+<li><a href="/index.php?s=photos">Photos</a></li>
+
+
+	</ul>
+</div>
+<div class="clear"></div>	
+
+<div id="narrowcolumn">
+			
+<div id="narrowcolumntext">
+
+<txp:rss_suparchive section="articles" category dateformat="%B %Y" showsubdate="1" subdateformat="%d" subdatesep=" &raquo; "/>
+
+</div>
+</div>
+
+
+<div id="sidebar">
+<div id="sidebartext">
+	
+<ul>
+
+<li><h2>Last five in...</h2>
+<div id="rssCatArchive">
+<div id="rssCatList">
+<div id="c_culture" class="rssCcat"><a href="http://www.ontheriversedge.com/archive/?c=Culture" title="View all articles filed under Culture">Culture</a> (40) </div>
+<ul>
+<li class="rssCart"><a href="http://www.ontheriversedge.com/index.php?id=1304" title="Permanent link to How do they deliver pizzas (or anything else) in Managua?">How do they deliver pizzas (or anything else) in Managua?</a><span class="rssSubdate"> &raquo; November 20, 2007</span></li>
+<li class="rssCart"><a href="http://www.ontheriversedge.com/index.php?id=1292" title="Permanent link to Layer Tennis">Layer Tennis</a><span class="rssSubdate"> &raquo; September 29, 2007</span></li>
+<li class="rssCart"><a href="http://www.ontheriversedge.com/index.php?id=1282" title="Permanent link to Kids: No wandering allowed">Kids: No wandering allowed</a><span class="rssSubdate"> &raquo; June 21, 2007</span></li>
+<li class="rssCart"><a href="http://www.ontheriversedge.com/index.php?id=1279" title="Permanent link to This little girl has Britain in the palm of her hand">This little girl has Britain in the palm of her hand</a><span class="rssSubdate"> &raquo; June 15, 2007</span></li>
+<li class="rssCart"><a href="http://www.ontheriversedge.com/index.php?id=1276" title="Permanent link to A Brit look at the Derby">A Brit look at the Derby</a><span class="rssSubdate"> &raquo; May 06, 2007</span></li>
+</ul>
+<div id="c_grad-school" class="rssCcat"><a href="http://www.ontheriversedge.com/archive/?c=Grad-School" title="View all articles filed under Grad-School">Grad school</a> (28) </div>
+<ul>
+<li class="rssCart"><a href="http://www.ontheriversedge.com/index.php?id=1259" title="Permanent link to Do I have cool friends or what?">Do I have cool friends or what?</a><span class="rssSubdate"> &raquo; December 09, 2006</span></li>
+<li class="rssCart"><a href="http://www.ontheriversedge.com/index.php?id=1258" title="Permanent link to The countdown begins...">The countdown begins...</a><span class="rssSubdate"> &raquo; November 21, 2006</span></li>
+<li class="rssCart"><a href="http://www.ontheriversedge.com/index.php?id=1224" title="Permanent link to Degree audit">Degree audit</a><span class="rssSubdate"> &raquo; August 14, 2006</span></li>
+<li class="rssCart"><a href="http://www.ontheriversedge.com/index.php?id=1209" title="Permanent link to Finally finished my semester">Finally finished my semester</a><span class="rssSubdate"> &raquo; May 07, 2006</span></li>
+<li class="rssCart"><a href="http://www.ontheriversedge.com/index.php?id=1207" title="Permanent link to A reprieve before the crunch?">A reprieve before the crunch?</a><span class="rssSubdate"> &raquo; April 09, 2006</span></li>
+</ul>
+<div id="c_library" class="rssCcat"><a href="http://www.ontheriversedge.com/archive/?c=Library" title="View all articles filed under Library">Library</a> (51) </div>
+<ul>
+<li class="rssCart"><a href="http://www.ontheriversedge.com/index.php?id=1283" title="Permanent link to Computer lust? Eee!">Computer lust? Eee!</a><span class="rssSubdate"> &raquo; June 22, 2007</span></li>
+<li class="rssCart"><a href="http://www.ontheriversedge.com/index.php?id=1281" title="Permanent link to Poor Nashville Metro Council...">Poor Nashville Metro Council...</a><span class="rssSubdate"> &raquo; June 21, 2007</span></li>
+<li class="rssCart"><a href="http://www.ontheriversedge.com/index.php?id=1270" title="Permanent link to Great online comics at least...">Great online comics at least...</a><span class="rssSubdate"> &raquo; April 25, 2007</span></li>
+<li class="rssCart"><a href="http://www.ontheriversedge.com/index.php?id=1266" title="Permanent link to Apple/EMI, DRM and libraries">Apple/EMI, DRM and libraries</a><span class="rssSubdate"> &raquo; April 02, 2007</span></li>
+<li class="rssCart"><a href="http://www.ontheriversedge.com/index.php?id=1202" title="Permanent link to An Old Possum's Podcast of Practical Cats">An Old Possum's Podcast of Practical Cats</a><span class="rssSubdate"> &raquo; March 19, 2006</span></li>
+</ul>
+<div id="c_life" class="rssCcat"><a href="http://www.ontheriversedge.com/archive/?c=Life" title="View all articles filed under Life">Life</a> (168) </div>
+<ul>
+<li class="rssCart"><a href="http://www.ontheriversedge.com/index.php?id=1305" title="Permanent link to Our library's Christmas party...">Our library's Christmas party...</a><span class="rssSubdate"> &raquo; December 07, 2007</span></li>
+<li class="rssCart"><a href="http://www.ontheriversedge.com/index.php?id=1294" title="Permanent link to Great vacation, photos coming...">Great vacation, photos coming...</a><span class="rssSubdate"> &raquo; October 19, 2007</span></li>
+<li class="rssCart"><a href="http://www.ontheriversedge.com/index.php?id=1289" title="Permanent link to I nearly had a bat to the head">I nearly had a bat to the head</a><span class="rssSubdate"> &raquo; August 22, 2007</span></li>
+<li class="rssCart"><a href="http://www.ontheriversedge.com/index.php?id=1264" title="Permanent link to I earned basketball "letters"">I earned basketball "letters"</a><span class="rssSubdate"> &raquo; March 20, 2007</span></li>
+<li class="rssCart"><a href="http://www.ontheriversedge.com/index.php?id=1263" title="Permanent link to Yes, I'm still alive">Yes, I'm still alive</a><span class="rssSubdate"> &raquo; March 19, 2007</span></li>
+</ul>
+<div id="c_mac-tech" class="rssCcat"><a href="http://www.ontheriversedge.com/archive/?c=Mac-Tech" title="View all articles filed under Mac-Tech">Mac-Tech</a> (45) </div>
+<ul>
+<li class="rssCart"><a href="http://www.ontheriversedge.com/index.php?id=1305" title="Permanent link to Our library's Christmas party...">Our library's Christmas party...</a><span class="rssSubdate"> &raquo; December 07, 2007</span></li>
+<li class="rssCart"><a href="http://www.ontheriversedge.com/index.php?id=1283" title="Permanent link to Computer lust? Eee!">Computer lust? Eee!</a><span class="rssSubdate"> &raquo; June 22, 2007</span></li>
+<li class="rssCart"><a href="http://www.ontheriversedge.com/index.php?id=1266" title="Permanent link to Apple/EMI, DRM and libraries">Apple/EMI, DRM and libraries</a><span class="rssSubdate"> &raquo; April 02, 2007</span></li>
+<li class="rssCart"><a href="http://www.ontheriversedge.com/index.php?id=1244" title="Permanent link to Google Reader beats Bloglines">Google Reader beats Bloglines</a><span class="rssSubdate"> &raquo; October 14, 2006</span></li>
+<li class="rssCart"><a href="http://www.ontheriversedge.com/index.php?id=1236" title="Permanent link to iTunes 7... Eureka!">iTunes 7... Eureka!</a><span class="rssSubdate"> &raquo; September 13, 2006</span></li>
+</ul>
+<div id="c_madison" class="rssCcat"><a href="http://www.ontheriversedge.com/archive/?c=Madison" title="View all articles filed under Madison">Madison</a> (40) </div>
+<ul>
+<li class="rssCart"><a href="http://www.ontheriversedge.com/index.php?id=1311" title="Permanent link to Our local Republican HQ">Our local Republican HQ</a><span class="rssSubdate"> &raquo; October 17, 2008</span></li>
+<li class="rssCart"><a href="http://www.ontheriversedge.com/index.php?id=1280" title="Permanent link to My wife walks into a bar...">My wife walks into a bar...</a><span class="rssSubdate"> &raquo; June 15, 2007</span></li>
+<li class="rssCart"><a href="http://www.ontheriversedge.com/index.php?id=1233" title="Permanent link to Pretty nasty fire in downtown Madison">Pretty nasty fire in downtown Madison</a><span class="rssSubdate"> &raquo; August 26, 2006</span></li>
+<li class="rssCart"><a href="http://www.ontheriversedge.com/index.php?id=1216" title="Permanent link to A tragedy and a miracle">A tragedy and a miracle</a><span class="rssSubdate"> &raquo; July 03, 2006</span></li>
+<li class="rssCart"><a href="http://www.ontheriversedge.com/index.php?id=1215" title="Permanent link to Madison Regatta tragedy">Madison Regatta tragedy</a><span class="rssSubdate"> &raquo; July 02, 2006</span></li>
+</ul>
+<div id="c_mudcat-pottery" class="rssCcat"><a href="http://www.ontheriversedge.com/archive/?c=Mudcat-Pottery" title="View all articles filed under Mudcat-Pottery">Mudcat Pottery</a> (10) </div>
+<ul>
+<li class="rssCart"><a href="http://www.ontheriversedge.com/index.php?id=1051" title="Permanent link to We have a kiln room!">We have a kiln room!</a><span class="rssSubdate"> &raquo; February 03, 2005</span></li>
+<li class="rssCart"><a href="http://www.ontheriversedge.com/index.php?id=1011" title="Permanent link to Kiln down and up">Kiln down and up</a><span class="rssSubdate"> &raquo; December 05, 2004</span></li>
+<li class="rssCart"><a href="http://www.ontheriversedge.com/index.php?id=977" title="Permanent link to New rack cards arrived">New rack cards arrived</a><span class="rssSubdate"> &raquo; September 30, 2004</span></li>
+<li class="rssCart"><a href="http://www.ontheriversedge.com/index.php?id=947" title="Permanent link to A candidate visits">A candidate visits</a><span class="rssSubdate"> &raquo; August 16, 2004</span></li>
+<li class="rssCart"><a href="http://www.ontheriversedge.com/index.php?id=927" title="Permanent link to Let me brag on my wife">Let me brag on my wife</a><span class="rssSubdate"> &raquo; July 02, 2004</span></li>
+</ul>
+<div id="c_on-the-news" class="rssCcat"><a href="http://www.ontheriversedge.com/archive/?c=On-the-News" title="View all articles filed under On-the-News">On the News</a> (89) </div>
+<ul>
+<li class="rssCart"><a href="http://www.ontheriversedge.com/index.php?id=1255" title="Permanent link to OK, so we won.">OK, so we won.</a><span class="rssSubdate"> &raquo; November 08, 2006</span></li>
+<li class="rssCart"><a href="http://www.ontheriversedge.com/index.php?id=1249" title="Permanent link to NPR visits Madison, Indiana, to talk politics">NPR visits Madison, Indiana, to talk politics</a><span class="rssSubdate"> &raquo; October 29, 2006</span></li>
+<li class="rssCart"><a href="http://www.ontheriversedge.com/index.php?id=1245" title="Permanent link to 90% of trees battered by Buffalo storm">90% of trees battered by Buffalo storm</a><span class="rssSubdate"> &raquo; October 16, 2006</span></li>
+<li class="rssCart"><a href="http://www.ontheriversedge.com/index.php?id=1243" title="Permanent link to Worst October storm ever... poor Buffalo">Worst October storm ever... poor Buffalo</a><span class="rssSubdate"> &raquo; October 14, 2006</span></li>
+<li class="rssCart"><a href="http://www.ontheriversedge.com/index.php?id=1238" title="Permanent link to The First 100 Hours... is this radical?">The First 100 Hours... is this radical?</a><span class="rssSubdate"> &raquo; October 06, 2006</span></li>
+</ul>
+<div id="c_politics" class="rssCcat"><a href="http://www.ontheriversedge.com/archive/?c=Politics" title="View all articles filed under Politics">Politics</a> (99) </div>
+<ul>
+<li class="rssCart"><a href="http://www.ontheriversedge.com/index.php?id=1255" title="Permanent link to OK, so we won.">OK, so we won.</a><span class="rssSubdate"> &raquo; November 08, 2006</span></li>
+<li class="rssCart"><a href="http://www.ontheriversedge.com/index.php?id=1252" title="Permanent link to You can't expect change unless you go vote and enact change">You can't expect change unless you go vote and enact change</a><span class="rssSubdate"> &raquo; November 07, 2006</span></li>
+<li class="rssCart"><a href="http://www.ontheriversedge.com/index.php?id=1250" title="Permanent link to IN-09: Sodrel... Pest Control...">IN-09: Sodrel... Pest Control...</a><span class="rssSubdate"> &raquo; October 30, 2006</span></li>
+<li class="rssCart"><a href="http://www.ontheriversedge.com/index.php?id=1249" title="Permanent link to NPR visits Madison, Indiana, to talk politics">NPR visits Madison, Indiana, to talk politics</a><span class="rssSubdate"> &raquo; October 29, 2006</span></li>
+<li class="rssCart"><a href="http://www.ontheriversedge.com/index.php?id=1242" title="Permanent link to Just do it... (another commercial)">Just do it... (another commercial)</a><span class="rssSubdate"> &raquo; October 14, 2006</span></li>
+</ul>
+<div id="c_sidenotes" class="rssCcat"><a href="http://www.ontheriversedge.com/archive/?c=Sidenotes" title="View all articles filed under Sidenotes">Sidenotes</a> (29) </div>
+<ul>
+<li class="rssCart"><a href="http://www.ontheriversedge.com/index.php?id=1286" title="Permanent link to JP likes Buffalo">JP likes Buffalo</a><span class="rssSubdate"> &raquo; July 30, 2007</span></li>
+<li class="rssCart"><a href="http://www.ontheriversedge.com/index.php?id=1272" title="Permanent link to Industrial photography">Industrial photography</a><span class="rssSubdate"> &raquo; April 29, 2007</span></li>
+<li class="rssCart"><a href="http://www.ontheriversedge.com/index.php?id=1268" title="Permanent link to Happy Birthday Buffalo!">Happy Birthday Buffalo!</a><span class="rssSubdate"> &raquo; April 20, 2007</span></li>
+<li class="rssCart"><a href="http://www.ontheriversedge.com/index.php?id=1217" title="Permanent link to Fireworks in Madison">Fireworks in Madison</a><span class="rssSubdate"> &raquo; July 02, 2006</span></li>
+<li class="rssCart"><a href="http://www.ontheriversedge.com/index.php?id=1213" title="Permanent link to Futurama autorama">Futurama autorama</a><span class="rssSubdate"> &raquo; June 29, 2006</span></li>
+</ul>
+
+</div>
+</div>
+
+
+</li>
+
+
+		</ul>
+
+</div>
+</div>
+	
+<div id="sidebar-right">
+<div id="sidebar-righttext">
+
+	<ul>	
+
+<li><h2>Categories</h2>
+		<ul class="category_list">
+	<li><a href="http://www.ontheriversedge.com/index.php?c=About-LotRE">About LotRE</a></li>
+	<li><a href="http://www.ontheriversedge.com/index.php?c=Culture">Culture</a></li>
+	<li><a href="http://www.ontheriversedge.com/index.php?c=Grad-School">Grad school</a></li>
+	<li><a href="http://www.ontheriversedge.com/index.php?c=Library">Library</a></li>
+	<li><a href="http://www.ontheriversedge.com/index.php?c=Life">Life</a></li>
+	<li><a href="http://www.ontheriversedge.com/index.php?c=Mac-Tech">Mac-Tech</a></li>
+	<li><a href="http://www.ontheriversedge.com/index.php?c=Madison">Madison</a></li>
+	<li><a href="http://www.ontheriversedge.com/index.php?c=Mudcat-Pottery">Mudcat Pottery</a></li>
+	<li><a href="http://www.ontheriversedge.com/index.php?c=On-the-News">On the News</a></li>
+	<li><a href="http://www.ontheriversedge.com/index.php?c=Politics">Politics</a></li>
+	<li><a href="http://www.ontheriversedge.com/index.php?c=Sidenotes">Sidenotes</a></li>
+</ul>
+		</li>	
+
+<li><h2>Recent Articles</h2>
+		Recent Articles<br /><ul class="recent_articles">
+	<li><a href="http://www.ontheriversedge.com/index.php?id=1325">Hey library folk! Join in planning an Indiana reference unconference</a></li>
+	<li><a href="http://www.ontheriversedge.com/index.php?id=1324">Dozen Distinctive Destinations :: Buffalo, NY</a></li>
+	<li><a href="http://www.ontheriversedge.com/index.php?id=1321">The incredible edible egg?</a></li>
+	<li><a href="http://www.ontheriversedge.com/index.php?id=1320">Christmas Parade</a></li>
+	<li><a href="http://www.ontheriversedge.com/index.php?id=1319">Which came first?</a></li>
+	<li><a href="http://www.ontheriversedge.com/index.php?id=1318">Three in a row?</a></li>
+	<li><a href="http://www.ontheriversedge.com/index.php?id=1317">Toward a transparent White House...</a></li>
+	<li><a href="http://www.ontheriversedge.com/index.php?id=1316">Dead water heater</a></li>
+	<li><a href="http://www.ontheriversedge.com/index.php?id=1315">Errr... that&#39;s not our library</a></li>
+	<li><a href="http://www.ontheriversedge.com/index.php?id=1314">Fresh from my web foundry</a></li>
+</ul>
+		</li>
+		
+
+		<li><h2>Search this site</h2>
+		<ul>
+		<li><form method="get" action="http://www.ontheriversedge.com/">
+<p class="search_input">Search<br /><input type="text" value="" name="q" size="15" /></p>
+</form></li>
+		</ul>
+		</li>
+	</ul>
+</div>
+</div>
+
+
+<div id="footer">
+<p>A Kubrick Mod by <a href="http://www.mx4.info/">MX4</a>. Ported to <a href="http://www.textpattern.com">TXP</a> by <a href="http://www.tom.frihost.net/">Thame</a>.
+Modified yet again by E.G. Yarnetsky.<br /><a href="http://www.ontheriversedge.com/index.php?rss=1&amp;section=archives" title="RSS Feed">Entries (RSS)</a> and <a href="http://www.ontheriversedge.com/index.php?atom=1&amp;section=archives" title="Atom Feed">Entries (Atom)</a>.</p>
+</div>
+</div>
+</body></html>
