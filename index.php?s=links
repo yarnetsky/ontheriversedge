@@ -35,9 +35,9 @@
 	<ul>
 
 <li><a https://yarnetsky.github.io/ontheriversedge">Home</a></li>
-<li><a href="/index.php?s=archives">Archives</a></li>
-<li><a class="selected" href="/index.php?s=links">Links . About</a></li>
-<li><a href="/index.php?s=photos">Photos</a></li>
+<li><a href="/index.html?s=archives">Archives</a></li>
+<li><a class="selected" href="/index.html?s=links">Links . About</a></li>
+<li><a href="/index.html?s=photos">Photos</a></li>
 
 
 	</ul>
@@ -240,7 +240,7 @@ Our friend Chris Ueberroth-Krall does really cool three-dimensional art.</li>
 <div class="line"></div><h3>Why an Egyptian goose?</h3>
 	<p>So&#8230; why is there an Egyptian goose on the header of my blog. </p>
 
-	<p>Well, it started with <a https://yarnetsky.github.io/ontheriversedge/index.php?id=882">my wife finding the goose on the Ohio River</a> a couple blocks from our home.</p>
+	<p>Well, it started with <a https://yarnetsky.github.io/ontheriversedge/index.html?id=882">my wife finding the goose on the Ohio River</a> a couple blocks from our home.</p>
 
 	<p>Then I thought about it. We both live in Madison. We&#8217;re both somewhat rare birds to find in Madison and we both have the same initials EG (Egyptian Goose and Earl Gerald).</p>
 
@@ -262,27 +262,27 @@ Our friend Chris Ueberroth-Krall does really cool three-dimensional art.</li>
 	
 <li><h2>Categories</h2>
 		<ul class="category_list">
-	<li><a https://yarnetsky.github.io/ontheriversedge/index.php?c=About-LotRE">About LotRE</a></li>
-	<li><a https://yarnetsky.github.io/ontheriversedge/index.php?c=Culture">Culture</a></li>
-	<li><a https://yarnetsky.github.io/ontheriversedge/index.php?c=Grad-School">Grad school</a></li>
-	<li><a https://yarnetsky.github.io/ontheriversedge/index.php?c=Library">Library</a></li>
-	<li><a https://yarnetsky.github.io/ontheriversedge/index.php?c=Life">Life</a></li>
-	<li><a https://yarnetsky.github.io/ontheriversedge/index.php?c=Mac-Tech">Mac-Tech</a></li>
-	<li><a https://yarnetsky.github.io/ontheriversedge/index.php?c=Madison">Madison</a></li>
-	<li><a https://yarnetsky.github.io/ontheriversedge/index.php?c=Mudcat-Pottery">Mudcat Pottery</a></li>
-	<li><a https://yarnetsky.github.io/ontheriversedge/index.php?c=On-the-News">On the News</a></li>
-	<li><a https://yarnetsky.github.io/ontheriversedge/index.php?c=Politics">Politics</a></li>
-	<li><a https://yarnetsky.github.io/ontheriversedge/index.php?c=Sidenotes">Sidenotes</a></li>
+	<li><a https://yarnetsky.github.io/ontheriversedge/index.html?c=About-LotRE">About LotRE</a></li>
+	<li><a https://yarnetsky.github.io/ontheriversedge/index.html?c=Culture">Culture</a></li>
+	<li><a https://yarnetsky.github.io/ontheriversedge/index.html?c=Grad-School">Grad school</a></li>
+	<li><a https://yarnetsky.github.io/ontheriversedge/index.html?c=Library">Library</a></li>
+	<li><a https://yarnetsky.github.io/ontheriversedge/index.html?c=Life">Life</a></li>
+	<li><a https://yarnetsky.github.io/ontheriversedge/index.html?c=Mac-Tech">Mac-Tech</a></li>
+	<li><a https://yarnetsky.github.io/ontheriversedge/index.html?c=Madison">Madison</a></li>
+	<li><a https://yarnetsky.github.io/ontheriversedge/index.html?c=Mudcat-Pottery">Mudcat Pottery</a></li>
+	<li><a https://yarnetsky.github.io/ontheriversedge/index.html?c=On-the-News">On the News</a></li>
+	<li><a https://yarnetsky.github.io/ontheriversedge/index.html?c=Politics">Politics</a></li>
+	<li><a https://yarnetsky.github.io/ontheriversedge/index.html?c=Sidenotes">Sidenotes</a></li>
 </ul>
 		</li>	
 
 <li><h2>Archives</h2>
 		Recent Articles<br /><ul class="recent_articles">
-	<li><a https://yarnetsky.github.io/ontheriversedge/index.php?id=1325">Hey library folk! Join in planning an Indiana reference unconference</a></li>
-	<li><a https://yarnetsky.github.io/ontheriversedge/index.php?id=1324">Dozen Distinctive Destinations :: Buffalo, NY</a></li>
-	<li><a https://yarnetsky.github.io/ontheriversedge/index.php?id=1321">The incredible edible egg?</a></li>
-	<li><a https://yarnetsky.github.io/ontheriversedge/index.php?id=1320">Christmas Parade</a></li>
-	<li><a https://yarnetsky.github.io/ontheriversedge/index.php?id=1319">Which came first?</a></li>
+	<li><a https://yarnetsky.github.io/ontheriversedge/index.html?id=1325">Hey library folk! Join in planning an Indiana reference unconference</a></li>
+	<li><a https://yarnetsky.github.io/ontheriversedge/index.html?id=1324">Dozen Distinctive Destinations :: Buffalo, NY</a></li>
+	<li><a https://yarnetsky.github.io/ontheriversedge/index.html?id=1321">The incredible edible egg?</a></li>
+	<li><a https://yarnetsky.github.io/ontheriversedge/index.html?id=1320">Christmas Parade</a></li>
+	<li><a https://yarnetsky.github.io/ontheriversedge/index.html?id=1319">Which came first?</a></li>
 </ul>
 		</li>
 		<li><h2>Links</h2>
@@ -311,7 +311,7 @@ Our friend Chris Ueberroth-Krall does really cool three-dimensional art.</li>
 
 <div id="footer">
 <p>A Kubrick Mod by <a href="http://www.mx4.info/">MX4</a>. Ported to <a href="http://www.textpattern.com">TXP</a> by <a href="http://www.tom.frihost.net/">Thame</a>.
-Modified yet again by E.G. Yarnetsky.<br /><a https://yarnetsky.github.io/ontheriversedge/index.php?rss=1&amp;section=links" title="RSS Feed">Entries (RSS)</a> and <a https://yarnetsky.github.io/ontheriversedge/index.php?atom=1&amp;section=links" title="Atom Feed">Entries (Atom)</a>.</p>
+Modified yet again by E.G. Yarnetsky.<br /><a https://yarnetsky.github.io/ontheriversedge/index.html?rss=1&amp;section=links" title="RSS Feed">Entries (RSS)</a> and <a https://yarnetsky.github.io/ontheriversedge/index.html?atom=1&amp;section=links" title="Atom Feed">Entries (Atom)</a>.</p>
 </div>
 
 </div>

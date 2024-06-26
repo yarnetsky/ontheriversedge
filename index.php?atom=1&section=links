@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-us" xmlns="http://www.w3.org/2005/Atom"><title type="text">Life on the Rivers Edge - links</title>
 <subtitle type="text">Fact and Fiction in America's most beautiful rivertown</subtitle>
-<link rel="self" https://yarnetsky.github.io/ontheriversedge/index.php?atom=1&amp;section=links" />
+<link rel="self" https://yarnetsky.github.io/ontheriversedge/index.html?atom=1&amp;section=links" />
 <link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/" />
 <id>tag:www.ontheriversedge.com,2005:0c52a63137bc486839ca59ca3b501d56/links</id>
 <generator uri="http://textpattern.com/" version="4.5.7">Textpattern</generator>

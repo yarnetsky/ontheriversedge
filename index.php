@@ -46,9 +46,9 @@
 <div id="navcontainer">		
 	<ul>
 <li><a class="selected" https://yarnetsky.github.io/ontheriversedge">Home</a></li>
-<li><a href="/index.php?s=archives">Archives</a></li>
-<li><a href="/index.php?s=links">Links . About</a></li>
-<li><a href="/index.php?s=photos">Photos</a></li>
+<li><a href="/index.html?s=archives">Archives</a></li>
+<li><a href="/index.html?s=links">Links . About</a></li>
+<li><a href="/index.html?s=photos">Photos</a></li>
 
 	</ul>
 </div>
@@ -61,7 +61,7 @@
 
 	<br />
 <div class="post-date">12 May 2009</div>
-<h2><a https://yarnetsky.github.io/ontheriversedge/index.php?id=1325" title="Hey library folk! Join in planning an Indiana reference unconference"> Hey library folk! Join in planning an Indiana reference unconference</a></h2>
+<h2><a https://yarnetsky.github.io/ontheriversedge/index.html?id=1325" title="Hey library folk! Join in planning an Indiana reference unconference"> Hey library folk! Join in planning an Indiana reference unconference</a></h2>
 
 <div class="entry">
 
@@ -94,7 +94,7 @@ Indianapolis, Indiana  46240</p>
 <div class="line"></div>
 
 <div class="smallcat">Posted in </div>
-<div class="smalluser"> by <a rel="author" https://yarnetsky.github.io/ontheriversedge/index.php?author=E.G.+Yarnetsky">E.G. Yarnetsky</a></div>
+<div class="smalluser"> by <a rel="author" https://yarnetsky.github.io/ontheriversedge/index.html?author=E.G.+Yarnetsky">E.G. Yarnetsky</a></div>
 <div class="smallcomments"></div>
 <div class="clear"></div>
 </div>
@@ -105,7 +105,7 @@ Indianapolis, Indiana  46240</p>
 
 <br />
 <div class="post-date">27 February 2009</div>
-<h2><a https://yarnetsky.github.io/ontheriversedge/index.php?id=1324" title="Dozen Distinctive Destinations :: Buffalo, NY"> Dozen Distinctive Destinations :: Buffalo, NY</a></h2>
+<h2><a https://yarnetsky.github.io/ontheriversedge/index.html?id=1324" title="Dozen Distinctive Destinations :: Buffalo, NY"> Dozen Distinctive Destinations :: Buffalo, NY</a></h2>
 
 <div class="entry">
 
@@ -122,8 +122,8 @@ It&#8217;s a travel website that points you to &#8220;real&#8221; American place
 <div class="line"></div>
 
 <div class="smallcat">Posted in </div>
-<div class="smalluser"> by <a rel="author" https://yarnetsky.github.io/ontheriversedge/index.php?author=E.G.+Yarnetsky">E.G. Yarnetsky</a></div>
-<div class="smallcomments"><a https://yarnetsky.github.io/ontheriversedge/index.php?id=1324#comment"  class="comments_invite">Comment</a></div>
+<div class="smalluser"> by <a rel="author" https://yarnetsky.github.io/ontheriversedge/index.html?author=E.G.+Yarnetsky">E.G. Yarnetsky</a></div>
+<div class="smallcomments"><a https://yarnetsky.github.io/ontheriversedge/index.html?id=1324#comment"  class="comments_invite">Comment</a></div>
 <div class="clear"></div>
 </div>
     
@@ -133,7 +133,7 @@ It&#8217;s a travel website that points you to &#8220;real&#8221; American place
 
 <br />
 <div class="post-date">26 December 2008</div>
-<h2><a https://yarnetsky.github.io/ontheriversedge/index.php?id=1321" title="The incredible edible egg?"> The incredible edible egg?</a></h2>
+<h2><a https://yarnetsky.github.io/ontheriversedge/index.html?id=1321" title="The incredible edible egg?"> The incredible edible egg?</a></h2>
 
 <div class="entry">
 
@@ -162,8 +162,8 @@ It&#8217;s a travel website that points you to &#8220;real&#8221; American place
 <div class="line"></div>
 
 <div class="smallcat">Posted in </div>
-<div class="smalluser"> by <a rel="author" https://yarnetsky.github.io/ontheriversedge/index.php?author=E.G.+Yarnetsky">E.G. Yarnetsky</a></div>
-<div class="smallcomments"><a https://yarnetsky.github.io/ontheriversedge/index.php?id=1321#comment"  class="comments_invite">Comment</a></div>
+<div class="smalluser"> by <a rel="author" https://yarnetsky.github.io/ontheriversedge/index.html?author=E.G.+Yarnetsky">E.G. Yarnetsky</a></div>
+<div class="smallcomments"><a https://yarnetsky.github.io/ontheriversedge/index.html?id=1321#comment"  class="comments_invite">Comment</a></div>
 <div class="clear"></div>
 </div>
     
@@ -173,7 +173,7 @@ It&#8217;s a travel website that points you to &#8220;real&#8221; American place
 
 <br />
 <div class="post-date"> 6 December 2008</div>
-<h2><a https://yarnetsky.github.io/ontheriversedge/index.php?id=1320" title="Christmas Parade"> Christmas Parade</a></h2>
+<h2><a https://yarnetsky.github.io/ontheriversedge/index.html?id=1320" title="Christmas Parade"> Christmas Parade</a></h2>
 
 <div class="entry">
 
@@ -184,7 +184,7 @@ It&#8217;s a travel website that points you to &#8220;real&#8221; American place
 <div class="line"></div>
 
 <div class="smallcat">Posted in </div>
-<div class="smalluser"> by <a rel="author" https://yarnetsky.github.io/ontheriversedge/index.php?author=E.G.+Yarnetsky">E.G. Yarnetsky</a></div>
+<div class="smalluser"> by <a rel="author" https://yarnetsky.github.io/ontheriversedge/index.html?author=E.G.+Yarnetsky">E.G. Yarnetsky</a></div>
 <div class="smallcomments"></div>
 <div class="clear"></div>
 </div>
@@ -195,7 +195,7 @@ It&#8217;s a travel website that points you to &#8220;real&#8221; American place
 
 <br />
 <div class="post-date">26 November 2008</div>
-<h2><a https://yarnetsky.github.io/ontheriversedge/index.php?id=1318" title="Three in a row?"> Three in a row?</a></h2>
+<h2><a https://yarnetsky.github.io/ontheriversedge/index.html?id=1318" title="Three in a row?"> Three in a row?</a></h2>
 
 <div class="entry">
 
@@ -206,8 +206,8 @@ It&#8217;s a travel website that points you to &#8220;real&#8221; American place
 <div class="line"></div>
 
 <div class="smallcat">Posted in </div>
-<div class="smalluser"> by <a rel="author" https://yarnetsky.github.io/ontheriversedge/index.php?author=E.G.+Yarnetsky">E.G. Yarnetsky</a></div>
-<div class="smallcomments"><a https://yarnetsky.github.io/ontheriversedge/index.php?id=1318#comment"  class="comments_invite">Comment</a></div>
+<div class="smalluser"> by <a rel="author" https://yarnetsky.github.io/ontheriversedge/index.html?author=E.G.+Yarnetsky">E.G. Yarnetsky</a></div>
+<div class="smallcomments"><a https://yarnetsky.github.io/ontheriversedge/index.html?id=1318#comment"  class="comments_invite">Comment</a></div>
 <div class="clear"></div>
 </div>
     
@@ -217,7 +217,7 @@ It&#8217;s a travel website that points you to &#8220;real&#8221; American place
 
 <br />
 <div class="post-date"> 3 November 2008</div>
-<h2><a https://yarnetsky.github.io/ontheriversedge/index.php?id=1315" title="Errr... that&#39;s not our library"> Errr... that&#39;s not our library</a></h2>
+<h2><a https://yarnetsky.github.io/ontheriversedge/index.html?id=1315" title="Errr... that&#39;s not our library"> Errr... that&#39;s not our library</a></h2>
 
 <div class="entry">
 
@@ -246,8 +246,8 @@ It&#8217;s a travel website that points you to &#8220;real&#8221; American place
 <div class="line"></div>
 
 <div class="smallcat">Posted in </div>
-<div class="smalluser"> by <a rel="author" https://yarnetsky.github.io/ontheriversedge/index.php?author=E.G.+Yarnetsky">E.G. Yarnetsky</a></div>
-<div class="smallcomments"><a https://yarnetsky.github.io/ontheriversedge/index.php?id=1315#comment"  class="comments_invite">Comment</a></div>
+<div class="smalluser"> by <a rel="author" https://yarnetsky.github.io/ontheriversedge/index.html?author=E.G.+Yarnetsky">E.G. Yarnetsky</a></div>
+<div class="smallcomments"><a https://yarnetsky.github.io/ontheriversedge/index.html?id=1315#comment"  class="comments_invite">Comment</a></div>
 <div class="clear"></div>
 </div>
     
@@ -257,7 +257,7 @@ It&#8217;s a travel website that points you to &#8220;real&#8221; American place
 
 <br />
 <div class="post-date">31 October 2008</div>
-<h2><a https://yarnetsky.github.io/ontheriversedge/index.php?id=1314" title="Fresh from my web foundry"> Fresh from my web foundry</a></h2>
+<h2><a https://yarnetsky.github.io/ontheriversedge/index.html?id=1314" title="Fresh from my web foundry"> Fresh from my web foundry</a></h2>
 
 <div class="entry">
 
@@ -278,8 +278,8 @@ It&#8217;s a travel website that points you to &#8220;real&#8221; American place
 <div class="line"></div>
 
 <div class="smallcat">Posted in </div>
-<div class="smalluser"> by <a rel="author" https://yarnetsky.github.io/ontheriversedge/index.php?author=E.G.+Yarnetsky">E.G. Yarnetsky</a></div>
-<div class="smallcomments"><a https://yarnetsky.github.io/ontheriversedge/index.php?id=1314#comment"  class="comments_invite">Comment</a> [1]</div>
+<div class="smalluser"> by <a rel="author" https://yarnetsky.github.io/ontheriversedge/index.html?author=E.G.+Yarnetsky">E.G. Yarnetsky</a></div>
+<div class="smallcomments"><a https://yarnetsky.github.io/ontheriversedge/index.html?id=1314#comment"  class="comments_invite">Comment</a> [1]</div>
 <div class="clear"></div>
 </div>
     
@@ -292,7 +292,7 @@ It&#8217;s a travel website that points you to &#8220;real&#8221; American place
 	
 	
 	<p>
-	<a https://yarnetsky.github.io/ontheriversedge/index.php?pg=2">Previous Posts</a><br />
+	<a https://yarnetsky.github.io/ontheriversedge/index.html?pg=2">Previous Posts</a><br />
 	
 	</p>
 		
@@ -310,50 +310,50 @@ It&#8217;s a travel website that points you to &#8220;real&#8221; American place
 
 
 
-<h3><a rel="bookmark" https://yarnetsky.github.io/ontheriversedge/index.php?id=1319">Which came first?</a></h3>
+<h3><a rel="bookmark" https://yarnetsky.github.io/ontheriversedge/index.html?id=1319">Which came first?</a></h3>
 	<p>Marshmallows or peanut butter and jelly? The <a href="http://www.foodtimeline.org/">Food Timeline</a> provides the answers. There are a lot of surprises&#8230;</p>
 <small>Posted  2 December 2008</small>
-<div class="line"></div><h3><a rel="bookmark" https://yarnetsky.github.io/ontheriversedge/index.php?id=1317">Toward a transparent White House...</a></h3>
+<div class="line"></div><h3><a rel="bookmark" https://yarnetsky.github.io/ontheriversedge/index.html?id=1317">Toward a transparent White House...</a></h3>
 	<p>Commentary that <a href="http://www.niemanwatchdog.org/index.cfm?fuseaction=background.view&#38;backgroundid=00307">Obama could use the web to have a transparent Whitehouse</a> instead of a White(wash)house. Helping run such a website would be an amazing job.</p>
 <small>Posted 25 November 2008</small>
-<div class="line"></div><h3><a rel="bookmark" https://yarnetsky.github.io/ontheriversedge/index.php?id=1316">Dead water heater</a></h3>
+<div class="line"></div><h3><a rel="bookmark" https://yarnetsky.github.io/ontheriversedge/index.html?id=1316">Dead water heater</a></h3>
 	<p>=cold shower.</p>
 <small>Posted  3 November 2008</small>
-<div class="line"></div><h3><a rel="bookmark" https://yarnetsky.github.io/ontheriversedge/index.php?id=1302">A bit eye opening...</a></h3>
+<div class="line"></div><h3><a rel="bookmark" https://yarnetsky.github.io/ontheriversedge/index.html?id=1302">A bit eye opening...</a></h3>
 	<p><a href="http://www.boston.com/news/nation/gallery/251007war_costs/">What could $611 billion buy?</a></p>
 <small>Posted  9 November 2007</small>
-<div class="line"></div><h3><a rel="bookmark" https://yarnetsky.github.io/ontheriversedge/index.php?id=1301">Designers having too much fun...</a></h3>
+<div class="line"></div><h3><a rel="bookmark" https://yarnetsky.github.io/ontheriversedge/index.html?id=1301">Designers having too much fun...</a></h3>
 	<p>I don&#8217;t understand Dutch, but this company&#8217;s website promotion is absolute genius&#8230;. <a href="http://producten.hema.nl/">Hema&#8217;s Rube Goldberg website</a>  (h/t Wired)</p>
 <small>Posted  6 November 2007</small>
-<div class="line"></div><h3><a rel="bookmark" https://yarnetsky.github.io/ontheriversedge/index.php?id=1290">Picks of the day</a></h3>
+<div class="line"></div><h3><a rel="bookmark" https://yarnetsky.github.io/ontheriversedge/index.html?id=1290">Picks of the day</a></h3>
 	<p><a href="http://www.pingmag.jp">PingMag</a> This Japanese website is really, really interesting if you&#8217;re a design geek.</p>
 
 	<p><a href="http://www.deezer.com">Deezer</a> This French site brings free, legal on-demand music to the scene. The catalog of music is decent, though it&#8217;s light on 80s new wave. It allows you to share music on your blog which I may try soon.</p>
 
 
 <small>Posted 25 August 2007</small>
-<div class="line"></div><h3><a rel="bookmark" https://yarnetsky.github.io/ontheriversedge/index.php?id=1288">Darlene&#39;s fortune</a></h3>
+<div class="line"></div><h3><a rel="bookmark" https://yarnetsky.github.io/ontheriversedge/index.html?id=1288">Darlene&#39;s fortune</a></h3>
 	<p>&#8220;Before the beginning of great brilliance, there must be chaos.&#8221;</p>
 <small>Posted 12 August 2007</small>
-<div class="line"></div><h3><a rel="bookmark" https://yarnetsky.github.io/ontheriversedge/index.php?id=1286">JP likes Buffalo</a></h3>
+<div class="line"></div><h3><a rel="bookmark" https://yarnetsky.github.io/ontheriversedge/index.html?id=1286">JP likes Buffalo</a></h3>
 	<p>It&#8217;s nice to see a sports player like his newfound hometown. <a href="http://www.usatoday.com/sports/football/nfl/bills/2007-07-28-jp-losman_N.htm">Especially when it&#8217;s a southern California boy has adopted Buffalo,N.Y.</a></p>
 
 	<p>I hope J.P. Losman finds his way toward winning seasons. Then he can enjoy his new hometown for years to come.</p>
 <small>Posted 30 July 2007</small>
-<div class="line"></div><h3><a rel="bookmark" https://yarnetsky.github.io/ontheriversedge/index.php?id=1273">Ratatouille</a></h3>
+<div class="line"></div><h3><a rel="bookmark" https://yarnetsky.github.io/ontheriversedge/index.html?id=1273">Ratatouille</a></h3>
 	<p>Wow, I think Pixar has another winner up its sleeve. <a href="http://disney.go.com/disneypictures/ratatouille/main.html?deeplink=videos&#38;sub_deeplink=3">Here&#8217;s a 9-minute preview of their new movie Ratatouille</a>. </p>
 
 	<p>Ratatouille is from the same guy who brought us the Iron Giant and the Incredibles, Brad Bird. We&#8217;ll have to wait until June 29, but I&#8217;m pretty sure this movie will give him a hat trick.</p>
 <small>Posted  5 May 2007</small>
-<div class="line"></div><h3><a rel="bookmark" https://yarnetsky.github.io/ontheriversedge/index.php?id=1272">Industrial photography</a></h3>
+<div class="line"></div><h3><a rel="bookmark" https://yarnetsky.github.io/ontheriversedge/index.html?id=1272">Industrial photography</a></h3>
 	<p>There&#8217;s something rather spooky about photographing dead industrial complexes. Indeed, even live factories can lead to haunting photographs. <a href="http://www.worksongs.com/">Worksongs</a> from Andrew Emond captures that feeling well. Good stuff. (Hattip <a href="http://www.buffalorising.com//story/industrial_might_an_inside_loo">BuffaloRising.com</a>)</p>
 <small>Posted 29 April 2007</small>
-<div class="line"></div><h3><a rel="bookmark" https://yarnetsky.github.io/ontheriversedge/index.php?id=1268">Happy Birthday Buffalo!</a></h3>
+<div class="line"></div><h3><a rel="bookmark" https://yarnetsky.github.io/ontheriversedge/index.html?id=1268">Happy Birthday Buffalo!</a></h3>
 	<p><a href="http://www.buffalorising.com//story/happy_birthday_buffalo">My hometown turns 175 years old today</a>. </p>
 
 	<p>To celebrate, the <a href="http://www.buffalonews.com/214/story/58597.html">Buffalo Sabres held off the desperate NY Islanders</a> to advance to the next round of the Stanley Cup playoffs.</p>
 <small>Posted 20 April 2007</small>
-<div class="line"></div><h3><a rel="bookmark" https://yarnetsky.github.io/ontheriversedge/index.php?id=1265">Status</a></h3>
+<div class="line"></div><h3><a rel="bookmark" https://yarnetsky.github.io/ontheriversedge/index.html?id=1265">Status</a></h3>
 	<p><strong>Activity Level</strong>: 90% </p>
 
 	<p><strong>Current Projects</strong>: Making/updating <a href="http://www.streetsofdreams.com">websites</a> for <a href="http://www.rhsaueressig.com">friends</a>. Reworking Darlene&#8217;s pottery studio. Going to the <a href="http://www.switzcoymca.org">Y</a></p>
@@ -368,13 +368,13 @@ It&#8217;s a travel website that points you to &#8220;real&#8221; American place
 
 
 <small>Posted 23 March 2007</small>
-<div class="line"></div><h3><a rel="bookmark" https://yarnetsky.github.io/ontheriversedge/index.php?id=1254">There are donkeys in the house</a></h3>
+<div class="line"></div><h3><a rel="bookmark" https://yarnetsky.github.io/ontheriversedge/index.html?id=1254">There are donkeys in the house</a></h3>
 	<p>It looks like we&#8217;ll have the first woman Speaker of the House ever. About time no?</p>
 <small>Posted  7 November 2006</small>
-<div class="line"></div><h3><a rel="bookmark" https://yarnetsky.github.io/ontheriversedge/index.php?id=1253">Dems win three in Indiana?</a></h3>
+<div class="line"></div><h3><a rel="bookmark" https://yarnetsky.github.io/ontheriversedge/index.html?id=1253">Dems win three in Indiana?</a></h3>
 	<p>Three Congressional seats flip in Indiana? Wow!  I would have been happy with one pickup.</p>
 <small>Posted  7 November 2006</small>
-<div class="line"></div><h3><a rel="bookmark" https://yarnetsky.github.io/ontheriversedge/index.php?id=1251">Library symphony</a></h3>
+<div class="line"></div><h3><a rel="bookmark" https://yarnetsky.github.io/ontheriversedge/index.html?id=1251">Library symphony</a></h3>
 	<p>This is what happens when a <a href="http://www.youtube.com/watch?v=Ns314ZNaJb4">creative librarian is let loose</a> in the stacks.  (Hat tip to Elsa K.)</p>
 <small>Posted  1 November 2006</small>
 <div class="line"></div>
@@ -404,17 +404,17 @@ A librarian and a potter sitting in a tree... This is a journal of our life, cul
 
 <li><h2>Categories</h2>		
 <ul class="category_list">
-	<li><a https://yarnetsky.github.io/ontheriversedge/index.php?c=About-LotRE">About LotRE</a></li>
-	<li><a https://yarnetsky.github.io/ontheriversedge/index.php?c=Culture">Culture</a></li>
-	<li><a https://yarnetsky.github.io/ontheriversedge/index.php?c=Grad-School">Grad school</a></li>
-	<li><a https://yarnetsky.github.io/ontheriversedge/index.php?c=Library">Library</a></li>
-	<li><a https://yarnetsky.github.io/ontheriversedge/index.php?c=Life">Life</a></li>
-	<li><a https://yarnetsky.github.io/ontheriversedge/index.php?c=Mac-Tech">Mac-Tech</a></li>
-	<li><a https://yarnetsky.github.io/ontheriversedge/index.php?c=Madison">Madison</a></li>
-	<li><a https://yarnetsky.github.io/ontheriversedge/index.php?c=Mudcat-Pottery">Mudcat Pottery</a></li>
-	<li><a https://yarnetsky.github.io/ontheriversedge/index.php?c=On-the-News">On the News</a></li>
-	<li><a https://yarnetsky.github.io/ontheriversedge/index.php?c=Politics">Politics</a></li>
-	<li><a https://yarnetsky.github.io/ontheriversedge/index.php?c=Sidenotes">Sidenotes</a></li>
+	<li><a https://yarnetsky.github.io/ontheriversedge/index.html?c=About-LotRE">About LotRE</a></li>
+	<li><a https://yarnetsky.github.io/ontheriversedge/index.html?c=Culture">Culture</a></li>
+	<li><a https://yarnetsky.github.io/ontheriversedge/index.html?c=Grad-School">Grad school</a></li>
+	<li><a https://yarnetsky.github.io/ontheriversedge/index.html?c=Library">Library</a></li>
+	<li><a https://yarnetsky.github.io/ontheriversedge/index.html?c=Life">Life</a></li>
+	<li><a https://yarnetsky.github.io/ontheriversedge/index.html?c=Mac-Tech">Mac-Tech</a></li>
+	<li><a https://yarnetsky.github.io/ontheriversedge/index.html?c=Madison">Madison</a></li>
+	<li><a https://yarnetsky.github.io/ontheriversedge/index.html?c=Mudcat-Pottery">Mudcat Pottery</a></li>
+	<li><a https://yarnetsky.github.io/ontheriversedge/index.html?c=On-the-News">On the News</a></li>
+	<li><a https://yarnetsky.github.io/ontheriversedge/index.html?c=Politics">Politics</a></li>
+	<li><a https://yarnetsky.github.io/ontheriversedge/index.html?c=Sidenotes">Sidenotes</a></li>
 </ul>
 		</li>	
 
@@ -476,7 +476,7 @@ A librarian and a potter sitting in a tree... This is a journal of our life, cul
 
 <div id="footer">
 <p>A Kubrick Mod by <a href="http://www.mx4.info/">MX4</a>. Ported to <a href="http://www.textpattern.com">TXP</a> by <a href="http://www.tom.frihost.net/">Thame</a>.
-Modified yet again by E.G. Yarnetsky.<br /><a https://yarnetsky.github.io/ontheriversedge/index.php?rss=1" title="RSS Feed">Entries (RSS)</a> and <a https://yarnetsky.github.io/ontheriversedge/index.php?atom=1" title="Atom Feed">Entries (Atom)</a>.</p>
+Modified yet again by E.G. Yarnetsky.<br /><a https://yarnetsky.github.io/ontheriversedge/index.html?rss=1" title="RSS Feed">Entries (RSS)</a> and <a https://yarnetsky.github.io/ontheriversedge/index.html?atom=1" title="Atom Feed">Entries (Atom)</a>.</p>
 </div>
 
 </div>

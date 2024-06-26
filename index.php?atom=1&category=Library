@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-us" xmlns="http://www.w3.org/2005/Atom"><title type="text">Life on the Rivers Edge - Library</title>
 <subtitle type="text">Fact and Fiction in America's most beautiful rivertown</subtitle>
-<link rel="self" https://yarnetsky.github.io/ontheriversedge/index.php?atom=1&amp;category=Library" />
+<link rel="self" https://yarnetsky.github.io/ontheriversedge/index.html?atom=1&amp;category=Library" />
 <link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/" />
 <id>tag:www.ontheriversedge.com,2005:0c52a63137bc486839ca59ca3b501d56/Library</id>
 <generator uri="http://textpattern.com/" version="4.5.7">Textpattern</generator>
@@ -19,7 +19,7 @@
 		<published>2007-06-23T02:54:46Z</published>
 		<updated>2007-06-23T04:20:12Z</updated>
 		<title type="html">Computer lust? Eee!</title>
-		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.php?id=1283" />
+		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.html?id=1283" />
 		<id>tag:www.ontheriversedge.com,2007-06-22:0c52a63137bc486839ca59ca3b501d56/edf2acb089b3dcf2650efcabdcc05518</id>
 		<category term="Mac-Tech" />
 		<category term="Library" />
@@ -54,7 +54,7 @@
 		<published>2007-06-21T23:36:33Z</published>
 		<updated>2007-06-21T23:36:33Z</updated>
 		<title type="html">Poor Nashville Metro Council...</title>
-		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.php?id=1281" />
+		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.html?id=1281" />
 		<id>tag:www.ontheriversedge.com,2007-06-21:0c52a63137bc486839ca59ca3b501d56/a4e3656f1839a5ec92350b000dcf06ec</id>
 		<category term="Library" />
 		
@@ -71,7 +71,7 @@
 		<published>2007-04-26T02:39:45Z</published>
 		<updated>2007-04-26T03:09:53Z</updated>
 		<title type="html">Great online comics at least...</title>
-		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.php?id=1270" />
+		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.html?id=1270" />
 		<id>tag:www.ontheriversedge.com,2007-04-25:0c52a63137bc486839ca59ca3b501d56/65f5b30ad839612162c481d598986667</id>
 		<category term="Culture" />
 		<category term="Library" />
@@ -101,7 +101,7 @@
 	<ul>
 		<li><a href="http://www.wapsisquare.com/">Wapsi Square</a></li>
 		<li><a href="http://questionablecontent.net/">Questionable Content</a></li>
-		<li><a href="http://lackadaisy.foxprints.com/index.php">Lackadaisy</a>, </li>
+		<li><a href="http://lackadaisy.foxprints.com/index.html">Lackadaisy</a>, </li>
 		<li><a href="http://www.webcomicsnation.com/tylerpage/nb/series.php">Nothing Better</a> </li>
 		<li><a href="http://www.boltcity.com/copper/">Copper</a>.</li>
 	</ul></p>
@@ -116,7 +116,7 @@
 		<published>2007-04-03T00:58:13Z</published>
 		<updated>2007-04-03T00:59:53Z</updated>
 		<title type="html">Apple/EMI, DRM and libraries</title>
-		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.php?id=1266" />
+		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.html?id=1266" />
 		<id>tag:www.ontheriversedge.com,2007-04-02:0c52a63137bc486839ca59ca3b501d56/cfe697c8899209dde2445b428ce3b51e</id>
 		<category term="Library" />
 		<category term="Mac-Tech" />
@@ -147,7 +147,7 @@
 		<published>2006-11-02T01:56:43Z</published>
 		<updated>2006-11-02T01:56:43Z</updated>
 		<title type="html">Library symphony</title>
-		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.php?id=1251" />
+		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.html?id=1251" />
 		<id>tag:www.ontheriversedge.com,2006-11-01:0c52a63137bc486839ca59ca3b501d56/8062af00c48be645640ae8d72afc1e85</id>
 		<category term="Library" />
 		
@@ -162,7 +162,7 @@
 		<published>2006-08-12T01:27:00Z</published>
 		<updated>2006-08-12T01:27:54Z</updated>
 		<title type="html">Something fishy...</title>
-		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.php?id=1222" />
+		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.html?id=1222" />
 		<id>tag:www.ontheriversedge.com,2006-08-11:0c52a63137bc486839ca59ca3b501d56/f89ff105abc3fc0a981dd70c1fd4570c</id>
 		<category term="Library" />
 		
@@ -177,7 +177,7 @@
 		<published>2006-04-01T14:44:00Z</published>
 		<updated>2006-04-01T15:14:09Z</updated>
 		<title type="html">The Cure for Information Overload?</title>
-		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.php?id=1204" />
+		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.html?id=1204" />
 		<id>tag:www.ontheriversedge.com,2006-04-01:0c52a63137bc486839ca59ca3b501d56/9e9374e0a161a61fc71e02fc13926cee</id>
 		<category term="Sidenotes" />
 		<category term="Library" />
@@ -192,7 +192,7 @@
 		<published>2006-03-20T04:40:00Z</published>
 		<updated>2006-03-20T04:43:33Z</updated>
 		<title type="html">An Old Possum's Podcast of Practical Cats</title>
-		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.php?id=1202" />
+		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.html?id=1202" />
 		<id>tag:www.ontheriversedge.com,2006-03-19:0c52a63137bc486839ca59ca3b501d56/af94559186f264b5686805a506ff61d2</id>
 		<category term="Library" />
 		
@@ -213,7 +213,7 @@
 		<published>2006-03-17T00:43:00Z</published>
 		<updated>2006-03-17T00:45:14Z</updated>
 		<title type="html">mjcpl.org... the first few days</title>
-		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.php?id=1201" />
+		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.html?id=1201" />
 		<id>tag:www.ontheriversedge.com,2006-03-16:0c52a63137bc486839ca59ca3b501d56/6c68ba80b174656d25fb7d50b9983afc</id>
 		<category term="Library" />
 		
@@ -222,9 +222,9 @@
 	<p>Right out of the gate, people flooded us with purchase requests and questions. That is good.</p>
 	<p>Yet, a bunch of people kept asking the same question, how to log into their account. So it finally dawned on me to see if I had correctly written the instructions. So I went to the page describing how to use the system and&#8230;. (no surprise here)... the link was dead. aarrrgggghhh! So I fixed the link and I have not received the question again. Hey, you learn. You squash bugs and you learn.</p>
 	<p>I also learned about the extra line feeds Windows puts into text documents. Our web forms are driven by a perl script. Once I started receiving the boatload of mail from the site I realized I forgot to change the subject lines on the various versions. Thus the purchase requests, the ILL requests and the reference questions all looked the same. I went in to change the script and and Windows inserted extra line feeds. The scripts failed as a result and type 500 server errors were flying everywhere. Fortunately, Thursdays our tech guru comes to visit and showed me how to fix the problem. Thankfully, the fix was easy.</p>
-	<p>Meanwhile, the website received a <a href="http://www.madisoncourier.com/main.asp?SectionID=4&#38;SubSectionID=253&#38;ArticleID=29071&#38;TM=67284.48">front page article in our local paper</a>. (Finally, I&#8217;m on the front page for something other than our historic district board of review). I also received an interesting mention from Thomson-Peterson&#8217;s <a href="http://syndicateblog.petersons.com/wordpress/index.php/links-for-2006-03-14/">Syndication for Higher Ed</a> blog.</p>
+	<p>Meanwhile, the website received a <a href="http://www.madisoncourier.com/main.asp?SectionID=4&#38;SubSectionID=253&#38;ArticleID=29071&#38;TM=67284.48">front page article in our local paper</a>. (Finally, I&#8217;m on the front page for something other than our historic district board of review). I also received an interesting mention from Thomson-Peterson&#8217;s <a href="http://syndicateblog.petersons.com/wordpress/index.html/links-for-2006-03-14/">Syndication for Higher Ed</a> blog.</p>
 	<p>A library director from up river asked my director is she could hire me to do their website (too bad I can&#8217;t right now, that&#8217;s be fun). </p>
-	<p>Meanwhile, I took a peak at our <a href="http://www.mjcpl.org/index.php?id=157">bee naming contest</a> results and it is indeed going to be a tight race.</p>]]>
+	<p>Meanwhile, I took a peak at our <a href="http://www.mjcpl.org/index.html?id=157">bee naming contest</a> results and it is indeed going to be a tight race.</p>]]>
 </content>
 </entry>
 <entry>
@@ -234,7 +234,7 @@
 		<published>2006-03-15T04:22:10Z</published>
 		<updated>2006-03-15T04:22:10Z</updated>
 		<title type="html">Website premieres</title>
-		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.php?id=1199" />
+		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.html?id=1199" />
 		<id>tag:www.ontheriversedge.com,2006-03-14:0c52a63137bc486839ca59ca3b501d56/46dd4e52624c847bdd23b07b52498460</id>
 		<category term="Library" />
 		<category term="Grad-School" />

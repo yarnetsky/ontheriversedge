@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-us" xmlns="http://www.w3.org/2005/Atom"><title type="text">Life on the Rivers Edge - Life</title>
 <subtitle type="text">Fact and Fiction in America's most beautiful rivertown</subtitle>
-<link rel="self" https://yarnetsky.github.io/ontheriversedge/index.php?atom=1&amp;category=Life" />
+<link rel="self" https://yarnetsky.github.io/ontheriversedge/index.html?atom=1&amp;category=Life" />
 <link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/" />
 <id>tag:www.ontheriversedge.com,2005:0c52a63137bc486839ca59ca3b501d56/Life</id>
 <generator uri="http://textpattern.com/" version="4.5.7">Textpattern</generator>
@@ -19,7 +19,7 @@
 		<published>2007-12-08T03:33:53Z</published>
 		<updated>2007-12-08T04:11:50Z</updated>
 		<title type="html">Our library's Christmas party...</title>
-		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.php?id=1305" />
+		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.html?id=1305" />
 		<id>tag:www.ontheriversedge.com,2007-12-07:0c52a63137bc486839ca59ca3b501d56/5d839964eb442edcb41bbfc31ad5f488</id>
 		<category term="Life" />
 		<category term="Mac-Tech" />
@@ -46,7 +46,7 @@
 		<published>2007-10-20T00:18:20Z</published>
 		<updated>2007-10-20T00:28:55Z</updated>
 		<title type="html">Great vacation, photos coming...</title>
-		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.php?id=1294" />
+		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.html?id=1294" />
 		<id>tag:www.ontheriversedge.com,2007-10-18:0c52a63137bc486839ca59ca3b501d56/a0db99665d2f06480635646424469e5d</id>
 		<category term="Life" />
 		
@@ -80,7 +80,7 @@
 		<published>2007-08-23T03:09:02Z</published>
 		<updated>2007-08-23T03:24:00Z</updated>
 		<title type="html">I nearly had a bat to the head [2]</title>
-		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.php?id=1289" />
+		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.html?id=1289" />
 		<id>tag:www.ontheriversedge.com,2007-08-22:0c52a63137bc486839ca59ca3b501d56/f8d2171c3aaece3b15a232b68bc8c6f7</id>
 		<category term="Life" />
 		
@@ -103,7 +103,7 @@
 		<published>2007-08-12T18:09:36Z</published>
 		<updated>2007-08-12T18:10:54Z</updated>
 		<title type="html">Darlene's fortune</title>
-		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.php?id=1288" />
+		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.html?id=1288" />
 		<id>tag:www.ontheriversedge.com,2007-08-12:0c52a63137bc486839ca59ca3b501d56/6f59ffa89d539d1ac6331ffaae8c9617</id>
 		<category term="Life" />
 		
@@ -118,7 +118,7 @@
 		<published>2007-03-20T04:08:59Z</published>
 		<updated>2007-03-20T04:08:59Z</updated>
 		<title type="html">I earned basketball &quot;letters&quot; [1]</title>
-		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.php?id=1264" />
+		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.html?id=1264" />
 		<id>tag:www.ontheriversedge.com,2007-03-20:0c52a63137bc486839ca59ca3b501d56/f4b59b4bc7727bfee47a9106f694cf4a</id>
 		<category term="Life" />
 		
@@ -156,7 +156,7 @@
 		<published>2007-03-20T03:55:18Z</published>
 		<updated>2007-03-20T03:55:18Z</updated>
 		<title type="html">Yes, I'm still alive</title>
-		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.php?id=1263" />
+		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.html?id=1263" />
 		<id>tag:www.ontheriversedge.com,2007-03-19:0c52a63137bc486839ca59ca3b501d56/e8bf284bdb4f7c8e986789923adb6477</id>
 		<category term="Life" />
 		
@@ -181,7 +181,7 @@
 		<published>2006-12-22T02:13:40Z</published>
 		<updated>2006-12-26T01:22:02Z</updated>
 		<title type="html">A peeved Frosty...</title>
-		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.php?id=1261" />
+		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.html?id=1261" />
 		<id>tag:www.ontheriversedge.com,2006-12-21:0c52a63137bc486839ca59ca3b501d56/6ac4ca6c9dc89556f71dbb1e89688bef</id>
 		<category term="Life" />
 		
@@ -198,7 +198,7 @@
 		<published>2006-11-16T04:48:53Z</published>
 		<updated>2006-11-16T04:50:00Z</updated>
 		<title type="html">2004 Trip to Buffalo-Niagara Falls</title>
-		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.php?id=1256" />
+		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.html?id=1256" />
 		<id>tag:www.ontheriversedge.com,2006-11-15:0c52a63137bc486839ca59ca3b501d56/05502e74dbc64cc288f8e84ed0bb31bf</id>
 		<category term="Life" />
 		
@@ -228,7 +228,7 @@
 		<published>2006-10-17T02:15:00Z</published>
 		<updated>2006-10-17T02:19:30Z</updated>
 		<title type="html">90% of trees battered by Buffalo storm [1]</title>
-		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.php?id=1245" />
+		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.html?id=1245" />
 		<id>tag:www.ontheriversedge.com,2006-10-16:0c52a63137bc486839ca59ca3b501d56/f336afff173c827ec93335c48a5d45b6</id>
 		<category term="Life" />
 		<category term="On-the-News" />
@@ -251,7 +251,7 @@
 		<published>2006-08-21T00:14:00Z</published>
 		<updated>2006-08-21T00:33:30Z</updated>
 		<title type="html">New photo page on the river's edge</title>
-		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.php?id=1230" />
+		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.html?id=1230" />
 		<id>tag:www.ontheriversedge.com,2006-08-20:0c52a63137bc486839ca59ca3b501d56/6309ae985bd1b32d04fffd50f774ae8b</id>
 		<category term="Life" />
 		<category term="Mac-Tech" />
