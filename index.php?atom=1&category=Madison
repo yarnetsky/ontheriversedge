@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-us" xmlns="http://www.w3.org/2005/Atom"><title type="text">Life on the Rivers Edge - Madison</title>
 <subtitle type="text">Fact and Fiction in America's most beautiful rivertown</subtitle>
-<link rel="self" href="http://www.ontheriversedge.com/index.php?atom=1&amp;category=Madison" />
-<link rel="alternate" type="text/html" href="http://www.ontheriversedge.com/" />
+<link rel="self" https://yarnetsky.github.io/ontheriversedge/index.php?atom=1&amp;category=Madison" />
+<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/" />
 <id>tag:www.ontheriversedge.com,2005:0c52a63137bc486839ca59ca3b501d56/Madison</id>
 <generator uri="http://textpattern.com/" version="4.5.7">Textpattern</generator>
 <updated>2016-01-16T18:51:23Z</updated>
@@ -19,14 +19,14 @@
 		<published>2008-10-17T13:32:42Z</published>
 		<updated>2008-10-17T13:38:40Z</updated>
 		<title type="html">Our local Republican HQ [1]</title>
-		<link rel="alternate" type="text/html" href="http://www.ontheriversedge.com/index.php?id=1311" />
+		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.php?id=1311" />
 		<id>tag:www.ontheriversedge.com,2008-10-17:0c52a63137bc486839ca59ca3b501d56/3bdc707e33263527eea8c4379706e9e8</id>
 		<category term="Madison" />
 		
 		<content type="html">
 <![CDATA[<p>They must love their neighbors&#8230;</p>
 
-	<p><a href="http://www.ontheriversedge.com/images/607.jpg"><img src="http://www.ontheriversedge.com/images/607t.jpg" style="width:370px;height:493px;" alt="Jefferson County Republican Party" /></a></p>]]>
+	<p><a https://yarnetsky.github.io/ontheriversedge/images/607.jpg"><img src="http://www.ontheriversedge.com/images/607t.jpg" style="width:370px;height:493px;" alt="Jefferson County Republican Party" /></a></p>]]>
 </content>
 </entry>
 <entry>
@@ -36,7 +36,7 @@
 		<published>2007-06-16T03:15:45Z</published>
 		<updated>2007-06-16T03:17:21Z</updated>
 		<title type="html">My wife walks into a bar... [1]</title>
-		<link rel="alternate" type="text/html" href="http://www.ontheriversedge.com/index.php?id=1280" />
+		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.php?id=1280" />
 		<id>tag:www.ontheriversedge.com,2007-06-15:0c52a63137bc486839ca59ca3b501d56/ced8389ca42c0bf55277a3adba622c12</id>
 		<category term="Madison" />
 		
@@ -63,7 +63,7 @@
 		<published>2006-08-27T03:12:00Z</published>
 		<updated>2006-08-27T18:52:47Z</updated>
 		<title type="html">Pretty nasty fire in downtown Madison</title>
-		<link rel="alternate" type="text/html" href="http://www.ontheriversedge.com/index.php?id=1233" />
+		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.php?id=1233" />
 		<id>tag:www.ontheriversedge.com,2006-08-26:0c52a63137bc486839ca59ca3b501d56/931a06414f844f796d48781334067190</id>
 		<category term="Madison" />
 		
@@ -89,7 +89,7 @@ Two houses behind the Elks were also heavily damaged. </p>
 		<published>2006-07-03T04:16:48Z</published>
 		<updated>2006-07-03T04:16:48Z</updated>
 		<title type="html">A tragedy and a miracle</title>
-		<link rel="alternate" type="text/html" href="http://www.ontheriversedge.com/index.php?id=1216" />
+		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.php?id=1216" />
 		<id>tag:www.ontheriversedge.com,2006-07-03:0c52a63137bc486839ca59ca3b501d56/ba89bf5dbeda0f9ff3045561ef0f8216</id>
 		<category term="Madison" />
 		<category term="Life" />
@@ -108,7 +108,7 @@ Two houses behind the Elks were also heavily damaged. </p>
 		<published>2006-07-02T21:15:00Z</published>
 		<updated>2006-07-06T22:36:50Z</updated>
 		<title type="html">Madison Regatta tragedy [1]</title>
-		<link rel="alternate" type="text/html" href="http://www.ontheriversedge.com/index.php?id=1215" />
+		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.php?id=1215" />
 		<id>tag:www.ontheriversedge.com,2006-07-02:0c52a63137bc486839ca59ca3b501d56/6fe96f212354f0d65ca3da938a80038f</id>
 		<category term="Madison" />
 		<category term="On-the-News" />
@@ -136,7 +136,7 @@ Two houses behind the Elks were also heavily damaged. </p>
 		<published>2006-07-02T15:21:00Z</published>
 		<updated>2006-07-03T04:21:26Z</updated>
 		<title type="html">Fireworks in Madison</title>
-		<link rel="alternate" type="text/html" href="http://www.ontheriversedge.com/index.php?id=1217" />
+		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.php?id=1217" />
 		<id>tag:www.ontheriversedge.com,2006-07-03:0c52a63137bc486839ca59ca3b501d56/485568349531d1687d74a33721b50da8</id>
 		<category term="Sidenotes" />
 		<category term="Madison" />
@@ -152,7 +152,7 @@ Two houses behind the Elks were also heavily damaged. </p>
 		<published>2006-06-30T03:22:18Z</published>
 		<updated>2006-06-30T03:22:18Z</updated>
 		<title type="html">Noisy streets</title>
-		<link rel="alternate" type="text/html" href="http://www.ontheriversedge.com/index.php?id=1214" />
+		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.php?id=1214" />
 		<id>tag:www.ontheriversedge.com,2006-06-29:0c52a63137bc486839ca59ca3b501d56/e92808e05b7513425cd251aac9f94a3f</id>
 		<category term="Madison" />
 		<category term="Life" />
@@ -169,7 +169,7 @@ Two houses behind the Elks were also heavily damaged. </p>
 		<published>2006-04-12T10:28:03Z</published>
 		<updated>2006-04-12T10:28:03Z</updated>
 		<title type="html">Madison 4-11: A Landmark Day [1]</title>
-		<link rel="alternate" type="text/html" href="http://www.ontheriversedge.com/index.php?id=1208" />
+		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.php?id=1208" />
 		<id>tag:www.ontheriversedge.com,2006-04-12:0c52a63137bc486839ca59ca3b501d56/f975a4ed89239bfc717bc70e6db057cb</id>
 		<category term="Madison" />
 		<category term="On-the-News" />
@@ -190,7 +190,7 @@ Two houses behind the Elks were also heavily damaged. </p>
 		<published>2006-01-23T04:42:31Z</published>
 		<updated>2006-01-23T04:42:31Z</updated>
 		<title type="html">No smoking in Madison?</title>
-		<link rel="alternate" type="text/html" href="http://www.ontheriversedge.com/index.php?id=1184" />
+		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.php?id=1184" />
 		<id>tag:www.ontheriversedge.com,2006-01-22:0c52a63137bc486839ca59ca3b501d56/6be04774b4fd7681e2679059fc259a9c</id>
 		<category term="Madison" />
 		<category term="On-the-News" />
@@ -214,7 +214,7 @@ Two houses behind the Elks were also heavily damaged. </p>
 		<published>2005-10-23T03:56:00Z</published>
 		<updated>2005-10-23T03:58:23Z</updated>
 		<title type="html">Only on a Saturday night in Madison</title>
-		<link rel="alternate" type="text/html" href="http://www.ontheriversedge.com/index.php?id=1167" />
+		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.php?id=1167" />
 		<id>tag:www.ontheriversedge.com,2005-10-22:0c52a63137bc486839ca59ca3b501d56/ba7b9eb8ed4984b3506546f51ee16ce7</id>
 		<category term="Madison" />
 		<category term="Life" />

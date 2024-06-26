@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-us" xmlns="http://www.w3.org/2005/Atom"><title type="text">Life on the Rivers Edge - Library</title>
 <subtitle type="text">Fact and Fiction in America's most beautiful rivertown</subtitle>
-<link rel="self" href="http://www.ontheriversedge.com/index.php?atom=1&amp;category=Library" />
-<link rel="alternate" type="text/html" href="http://www.ontheriversedge.com/" />
+<link rel="self" https://yarnetsky.github.io/ontheriversedge/index.php?atom=1&amp;category=Library" />
+<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/" />
 <id>tag:www.ontheriversedge.com,2005:0c52a63137bc486839ca59ca3b501d56/Library</id>
 <generator uri="http://textpattern.com/" version="4.5.7">Textpattern</generator>
 <updated>2016-01-16T18:51:23Z</updated>
@@ -19,7 +19,7 @@
 		<published>2007-06-23T02:54:46Z</published>
 		<updated>2007-06-23T04:20:12Z</updated>
 		<title type="html">Computer lust? Eee!</title>
-		<link rel="alternate" type="text/html" href="http://www.ontheriversedge.com/index.php?id=1283" />
+		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.php?id=1283" />
 		<id>tag:www.ontheriversedge.com,2007-06-22:0c52a63137bc486839ca59ca3b501d56/edf2acb089b3dcf2650efcabdcc05518</id>
 		<category term="Mac-Tech" />
 		<category term="Library" />
@@ -36,7 +36,7 @@
 
 	<p>For an ultra-mobile PC, the capabilities seem decent and the mobility factor is good, but here is what really hooked me &#8212; the price of <strong>$199</strong>. No fooling.</p>
 
-	<p>UMPCs have been running $1000 and up which is why even the new <a href="http://www.ontheriversedge.com/blog.wired.com/gadgets/2007/06/nanobook.html">Via Nanobook</a> seemed fantastic at $600. But at $199, the whole market changes and all kinds of possibilities open up. This could be the <a href="http://laptop.org/">one laptop for every child</a> for the rest of us.</p>
+	<p>UMPCs have been running $1000 and up which is why even the new <a https://yarnetsky.github.io/ontheriversedge/blog.wired.com/gadgets/2007/06/nanobook.html">Via Nanobook</a> seemed fantastic at $600. But at $199, the whole market changes and all kinds of possibilities open up. This could be the <a href="http://laptop.org/">one laptop for every child</a> for the rest of us.</p>
 
 	<p>OK, let me put on my techie librarian&#8217;s hat. A few years ago I wrote and received a federal grant for <a href="http://www.mjcpl.org/?id=93">wireless service in our library</a>. We always hoped to offer laptops for in-library use. However, with cheap laptops running $700 to $1,000, we could never afford them. We always worried how we&#8217;d recoup our costs if someone dropped one. However, at $199, we might suddenly be able to do something. It might be a pain to write a full paper on this puppy, but I suspect it would be a great library research companion.</p>
 
@@ -54,7 +54,7 @@
 		<published>2007-06-21T23:36:33Z</published>
 		<updated>2007-06-21T23:36:33Z</updated>
 		<title type="html">Poor Nashville Metro Council...</title>
-		<link rel="alternate" type="text/html" href="http://www.ontheriversedge.com/index.php?id=1281" />
+		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.php?id=1281" />
 		<id>tag:www.ontheriversedge.com,2007-06-21:0c52a63137bc486839ca59ca3b501d56/a4e3656f1839a5ec92350b000dcf06ec</id>
 		<category term="Library" />
 		
@@ -71,7 +71,7 @@
 		<published>2007-04-26T02:39:45Z</published>
 		<updated>2007-04-26T03:09:53Z</updated>
 		<title type="html">Great online comics at least...</title>
-		<link rel="alternate" type="text/html" href="http://www.ontheriversedge.com/index.php?id=1270" />
+		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.php?id=1270" />
 		<id>tag:www.ontheriversedge.com,2007-04-25:0c52a63137bc486839ca59ca3b501d56/65f5b30ad839612162c481d598986667</id>
 		<category term="Culture" />
 		<category term="Library" />
@@ -116,7 +116,7 @@
 		<published>2007-04-03T00:58:13Z</published>
 		<updated>2007-04-03T00:59:53Z</updated>
 		<title type="html">Apple/EMI, DRM and libraries</title>
-		<link rel="alternate" type="text/html" href="http://www.ontheriversedge.com/index.php?id=1266" />
+		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.php?id=1266" />
 		<id>tag:www.ontheriversedge.com,2007-04-02:0c52a63137bc486839ca59ca3b501d56/cfe697c8899209dde2445b428ce3b51e</id>
 		<category term="Library" />
 		<category term="Mac-Tech" />
@@ -147,7 +147,7 @@
 		<published>2006-11-02T01:56:43Z</published>
 		<updated>2006-11-02T01:56:43Z</updated>
 		<title type="html">Library symphony</title>
-		<link rel="alternate" type="text/html" href="http://www.ontheriversedge.com/index.php?id=1251" />
+		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.php?id=1251" />
 		<id>tag:www.ontheriversedge.com,2006-11-01:0c52a63137bc486839ca59ca3b501d56/8062af00c48be645640ae8d72afc1e85</id>
 		<category term="Library" />
 		
@@ -162,7 +162,7 @@
 		<published>2006-08-12T01:27:00Z</published>
 		<updated>2006-08-12T01:27:54Z</updated>
 		<title type="html">Something fishy...</title>
-		<link rel="alternate" type="text/html" href="http://www.ontheriversedge.com/index.php?id=1222" />
+		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.php?id=1222" />
 		<id>tag:www.ontheriversedge.com,2006-08-11:0c52a63137bc486839ca59ca3b501d56/f89ff105abc3fc0a981dd70c1fd4570c</id>
 		<category term="Library" />
 		
@@ -177,7 +177,7 @@
 		<published>2006-04-01T14:44:00Z</published>
 		<updated>2006-04-01T15:14:09Z</updated>
 		<title type="html">The Cure for Information Overload?</title>
-		<link rel="alternate" type="text/html" href="http://www.ontheriversedge.com/index.php?id=1204" />
+		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.php?id=1204" />
 		<id>tag:www.ontheriversedge.com,2006-04-01:0c52a63137bc486839ca59ca3b501d56/9e9374e0a161a61fc71e02fc13926cee</id>
 		<category term="Sidenotes" />
 		<category term="Library" />
@@ -192,16 +192,16 @@
 		<published>2006-03-20T04:40:00Z</published>
 		<updated>2006-03-20T04:43:33Z</updated>
 		<title type="html">An Old Possum's Podcast of Practical Cats</title>
-		<link rel="alternate" type="text/html" href="http://www.ontheriversedge.com/index.php?id=1202" />
+		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.php?id=1202" />
 		<id>tag:www.ontheriversedge.com,2006-03-19:0c52a63137bc486839ca59ca3b501d56/af94559186f264b5686805a506ff61d2</id>
 		<category term="Library" />
 		
 		<content type="html">
 <![CDATA[<p>I just finished a homework assignment to create a &#8220;booktalk&#8221; for a juvenile or young adult poetry. I chose &#8220;The Old Possum&#8217;s Book of Practical Cats,&#8221; which is one of my childhood favorites.</p>
-	<p>After I wrote the script, I decided to have a little fun and recorded it using a cheapy microphone and Apple’s GarageBand program. The process was fun and relatively easy. </p>
+	<p>After I wrote the script, I decided to have a little fun and recorded it using a cheapy microphone and Appleï¿½s GarageBand program. The process was fun and relatively easy. </p>
 	<p>The result is an audio file that comes in at 3 minutes flat. I&#8217;d call it a podcast, but if I understand correctly, a true podcast is downloadable via RSS 2.0.</p>
-	<p>Either way, if you have iTunes, you might try <a href="http://www.ontheriversedge.com/yarnetsky/oldpossumsbook.m4a">this link to the AAC version</a> which comes in at 1.5mb:</p>
-	<p>Otherwise, <a href="http://www.ontheriversedge.com/yarnetsky/oldpossumsbook.mp3">here is the link to the mp3 file</a> which is 3.4mb.</p>
+	<p>Either way, if you have iTunes, you might try <a https://yarnetsky.github.io/ontheriversedge/yarnetsky/oldpossumsbook.m4a">this link to the AAC version</a> which comes in at 1.5mb:</p>
+	<p>Otherwise, <a https://yarnetsky.github.io/ontheriversedge/yarnetsky/oldpossumsbook.mp3">here is the link to the mp3 file</a> which is 3.4mb.</p>
 	<p>I figure a school media specialist can go into the classroom and throw out a couple booktalks to a captive audience. However, public libraries do not usuallly have that advantage. Thus in the 21st century we have to  go where the kids are. I imagine kids, armed with mp3 players, just might be convinced to download the latest booktalks if we do a good enough job.</p>
 	<p>On my first attempt here I doubt mine would make the cut for some kid&#8217;s iPod, but in general we can always hope.</p>]]>
 </content>
@@ -213,7 +213,7 @@
 		<published>2006-03-17T00:43:00Z</published>
 		<updated>2006-03-17T00:45:14Z</updated>
 		<title type="html">mjcpl.org... the first few days</title>
-		<link rel="alternate" type="text/html" href="http://www.ontheriversedge.com/index.php?id=1201" />
+		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.php?id=1201" />
 		<id>tag:www.ontheriversedge.com,2006-03-16:0c52a63137bc486839ca59ca3b501d56/6c68ba80b174656d25fb7d50b9983afc</id>
 		<category term="Library" />
 		
@@ -234,7 +234,7 @@
 		<published>2006-03-15T04:22:10Z</published>
 		<updated>2006-03-15T04:22:10Z</updated>
 		<title type="html">Website premieres</title>
-		<link rel="alternate" type="text/html" href="http://www.ontheriversedge.com/index.php?id=1199" />
+		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.php?id=1199" />
 		<id>tag:www.ontheriversedge.com,2006-03-14:0c52a63137bc486839ca59ca3b501d56/46dd4e52624c847bdd23b07b52498460</id>
 		<category term="Library" />
 		<category term="Grad-School" />

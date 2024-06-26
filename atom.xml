@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <feed version="0.3" xmlns="http://purl.org/atom/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="en">
   <title>Life on the Rivers Edge</title>
-  <link rel="alternate" type="text/html" href="http://www.ontheriversedge.com/" />
+  <link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/" />
   <modified>2005-08-07T20:27:20Z</modified>
   <tagline>Fact and Fiction from America&apos;s most beautiful rivertown.</tagline>
   <id>tag:www.ontheriversedge.com,2005://1</id>
@@ -9,7 +9,7 @@
   <copyright>Copyright (c) 2005, egyarnetsky</copyright>
   <entry>
     <title>Last MovableType entry</title>
-    <link rel="alternate" type="text/html" href="http://www.ontheriversedge.com/archives/000601.html" />
+    <link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/archives/000601.html" />
     <modified>2005-08-07T20:27:20Z</modified>
     <issued>2005-08-07T16:27:20-05:00</issued>
     <id>tag:www.ontheriversedge.com,2005://1.601</id>
@@ -36,12 +36,12 @@
   </entry>
   <entry>
     <title>May you live in interesting times</title>
-    <link rel="alternate" type="text/html" href="http://www.ontheriversedge.com/archives/000600.html" />
+    <link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/archives/000600.html" />
     <modified>2005-07-31T01:39:39Z</modified>
     <issued>2005-07-30T21:39:39-05:00</issued>
     <id>tag:www.ontheriversedge.com,2005://1.600</id>
     <created>2005-07-31T01:39:39Z</created>
-    <summary type="text/plain">Right now I feel like I was given one of those fortune cookies that read—“May you live in interesting times” or some such. Right now I’m in over my head with homework. In five weeks I’ve written more than 50...</summary>
+    <summary type="text/plain">Right now I feel like I was given one of those fortune cookies that readï¿½ï¿½May you live in interesting timesï¿½ or some such. Right now Iï¿½m in over my head with homework. In five weeks Iï¿½ve written more than 50...</summary>
     <author>
       <name>egyarnetsky</name>
       <url>http://www.ontheriversedge.com</url>
@@ -49,25 +49,25 @@
     </author>
     <dc:subject>Life</dc:subject>
     <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://www.ontheriversedge.com/">
-      <![CDATA[<p>Right now I feel like I was given one of those fortune cookies that read—“May you live in interesting times” or some such.</p>
+      <![CDATA[<p>Right now I feel like I was given one of those fortune cookies that readï¿½ï¿½May you live in interesting timesï¿½ or some such.</p>
 
-<p>Right now I’m in over my head with homework. In five weeks I’ve written more than 50 pages in papers and I have at least another dozen to go before I can quit next week. I think the last time I wrote that much in a short period of time was for our local paper during the 1997 flood.</p>
+<p>Right now Iï¿½m in over my head with homework. In five weeks Iï¿½ve written more than 50 pages in papers and I have at least another dozen to go before I can quit next week. I think the last time I wrote that much in a short period of time was for our local paper during the 1997 flood.</p>
 
-<p>Either way, after this class I’ll be a third of the way toward a masters degree.</p>
+<p>Either way, after this class Iï¿½ll be a third of the way toward a masters degree.</p>
 
 <p>Meanwhile, I have once again shuffled myself into the middle of a historic preservation hullabaloo as a member of the Madison Historic District Board of Review.</p>
 
-<p>A property owner pre-meditatively violated our historic district ordinance after we turned him down for vinyl windows on his 19th century industrial/commercial building. All of the sudden, my name’s been in the paper about every other day and on local online forums.</p>
+<p>A property owner pre-meditatively violated our historic district ordinance after we turned him down for vinyl windows on his 19th century industrial/commercial building. All of the sudden, my nameï¿½s been in the paper about every other day and on local online forums.</p>
 
-<p>The board is in a bad position. One one hand we have a very weak ordinance with no design guidelines. On the other our community has a strong libertarian streak where people don’t like to be told what to do with their properties. It amazes me that through all this some people seem to think we enjoy doing what we do.</p>
+<p>The board is in a bad position. One one hand we have a very weak ordinance with no design guidelines. On the other our community has a strong libertarian streak where people donï¿½t like to be told what to do with their properties. It amazes me that through all this some people seem to think we enjoy doing what we do.</p>
 
-<p>I’m learning to live with the notion I’ll be a punching bag for people’s views on preservation in Madison. However, I just hope people will continue allowing me to serve them in peace at the library (if that makes sense).</p>]]>
+<p>Iï¿½m learning to live with the notion Iï¿½ll be a punching bag for peopleï¿½s views on preservation in Madison. However, I just hope people will continue allowing me to serve them in peace at the library (if that makes sense).</p>]]>
       
     </content>
   </entry>
   <entry>
     <title>36 years ago today...the moon</title>
-    <link rel="alternate" type="text/html" href="http://www.ontheriversedge.com/archives/000599.html" />
+    <link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/archives/000599.html" />
     <modified>2005-07-20T17:35:04Z</modified>
     <issued>2005-07-20T13:35:04-05:00</issued>
     <id>tag:www.ontheriversedge.com,2005://1.599</id>
@@ -90,7 +90,7 @@
   </entry>
   <entry>
     <title>Oh Scotty, you were the intelligent life down here</title>
-    <link rel="alternate" type="text/html" href="http://www.ontheriversedge.com/archives/000598.html" />
+    <link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/archives/000598.html" />
     <modified>2005-07-20T17:29:55Z</modified>
     <issued>2005-07-20T13:29:55-05:00</issued>
     <id>tag:www.ontheriversedge.com,2005://1.598</id>
@@ -117,7 +117,7 @@
   </entry>
   <entry>
     <title>Trying to shift the news cycle</title>
-    <link rel="alternate" type="text/html" href="http://www.ontheriversedge.com/archives/000597.html" />
+    <link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/archives/000597.html" />
     <modified>2005-07-20T03:20:38Z</modified>
     <issued>2005-07-19T23:20:38-05:00</issued>
     <id>tag:www.ontheriversedge.com,2005://1.597</id>
@@ -139,7 +139,7 @@
   </entry>
   <entry>
     <title>Costco: Retail done right?</title>
-    <link rel="alternate" type="text/html" href="http://www.ontheriversedge.com/archives/000596.html" />
+    <link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/archives/000596.html" />
     <modified>2005-07-20T02:42:38Z</modified>
     <issued>2005-07-19T22:42:38-05:00</issued>
     <id>tag:www.ontheriversedge.com,2005://1.596</id>
@@ -168,7 +168,7 @@
   </entry>
   <entry>
     <title>Bush &quot;shifting&quot; on Plame blame? Try &quot;shafting&quot;...</title>
-    <link rel="alternate" type="text/html" href="http://www.ontheriversedge.com/archives/000595.html" />
+    <link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/archives/000595.html" />
     <modified>2005-07-19T01:55:49Z</modified>
     <issued>2005-07-18T21:55:49-05:00</issued>
     <id>tag:www.ontheriversedge.com,2005://1.595</id>
@@ -200,7 +200,7 @@ Now  he'll <a href="http://www.usatoday.com/news/washington/2005-07-18-bush-rove
   </entry>
   <entry>
     <title>Harry Potter and the Half-Blood Prince arrives</title>
-    <link rel="alternate" type="text/html" href="http://www.ontheriversedge.com/archives/000594.html" />
+    <link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/archives/000594.html" />
     <modified>2005-07-16T15:20:03Z</modified>
     <issued>2005-07-16T11:20:03-05:00</issued>
     <id>tag:www.ontheriversedge.com,2005://1.594</id>
@@ -225,7 +225,7 @@ Now  he'll <a href="http://www.usatoday.com/news/washington/2005-07-18-bush-rove
   </entry>
   <entry>
     <title>New Music Thursday</title>
-    <link rel="alternate" type="text/html" href="http://www.ontheriversedge.com/archives/000593.html" />
+    <link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/archives/000593.html" />
     <modified>2005-07-15T03:48:57Z</modified>
     <issued>2005-07-14T23:48:57-05:00</issued>
     <id>tag:www.ontheriversedge.com,2005://1.593</id>
@@ -251,7 +251,7 @@ The test obviously is whether she'll like them...]]>
   </entry>
   <entry>
     <title>Poor Scottie</title>
-    <link rel="alternate" type="text/html" href="http://www.ontheriversedge.com/archives/000592.html" />
+    <link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/archives/000592.html" />
     <modified>2005-07-12T03:25:45Z</modified>
     <issued>2005-07-11T23:25:45-05:00</issued>
     <id>tag:www.ontheriversedge.com,2005://1.592</id>
@@ -270,7 +270,7 @@ The test obviously is whether she'll like them...]]>
   </entry>
   <entry>
     <title>How does blogging impact web accessibility?</title>
-    <link rel="alternate" type="text/html" href="http://www.ontheriversedge.com/archives/000591.html" />
+    <link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/archives/000591.html" />
     <modified>2005-07-09T02:14:03Z</modified>
     <issued>2005-07-08T22:14:03-05:00</issued>
     <id>tag:www.ontheriversedge.com,2005://1.591</id>
@@ -303,7 +303,7 @@ The test obviously is whether she'll like them...]]>
   </entry>
   <entry>
     <title>Lost Civil Liberties</title>
-    <link rel="alternate" type="text/html" href="http://www.ontheriversedge.com/archives/000590.html" />
+    <link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/archives/000590.html" />
     <modified>2005-07-07T01:38:53Z</modified>
     <issued>2005-07-06T21:38:53-05:00</issued>
     <id>tag:www.ontheriversedge.com,2005://1.590</id>
@@ -326,7 +326,7 @@ The test obviously is whether she'll like them...]]>
   </entry>
   <entry>
     <title>Organic groceries in Madison!</title>
-    <link rel="alternate" type="text/html" href="http://www.ontheriversedge.com/archives/000589.html" />
+    <link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/archives/000589.html" />
     <modified>2005-07-04T02:40:27Z</modified>
     <issued>2005-07-03T22:40:27-05:00</issued>
     <id>tag:www.ontheriversedge.com,2005://1.589</id>
@@ -355,7 +355,7 @@ The test obviously is whether she'll like them...]]>
   </entry>
   <entry>
     <title>&quot;Knowledge for Sale: Why American libraries are in trouble&quot;</title>
-    <link rel="alternate" type="text/html" href="http://www.ontheriversedge.com/archives/000587.html" />
+    <link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/archives/000587.html" />
     <modified>2005-06-27T15:10:58Z</modified>
     <issued>2005-06-27T11:10:58-05:00</issued>
     <id>tag:www.ontheriversedge.com,2005://1.587</id>
@@ -418,7 +418,7 @@ The test obviously is whether she'll like them...]]>
   </entry>
   <entry>
     <title>Madison in spring album</title>
-    <link rel="alternate" type="text/html" href="http://www.ontheriversedge.com/archives/000588.html" />
+    <link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/archives/000588.html" />
     <modified>2005-06-23T12:24:09Z</modified>
     <issued>2005-06-23T08:24:09-05:00</issued>
     <id>tag:www.ontheriversedge.com,2005://1.588</id>

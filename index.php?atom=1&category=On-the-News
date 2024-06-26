@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-us" xmlns="http://www.w3.org/2005/Atom"><title type="text">Life on the Rivers Edge - On the News</title>
 <subtitle type="text">Fact and Fiction in America's most beautiful rivertown</subtitle>
-<link rel="self" href="http://www.ontheriversedge.com/index.php?atom=1&amp;category=On-the-News" />
-<link rel="alternate" type="text/html" href="http://www.ontheriversedge.com/" />
+<link rel="self" https://yarnetsky.github.io/ontheriversedge/index.php?atom=1&amp;category=On-the-News" />
+<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/" />
 <id>tag:www.ontheriversedge.com,2005:0c52a63137bc486839ca59ca3b501d56/On-the-News</id>
 <generator uri="http://textpattern.com/" version="4.5.7">Textpattern</generator>
 <updated>2016-01-16T18:51:23Z</updated>
@@ -19,7 +19,7 @@
 		<published>2006-11-09T03:26:47Z</published>
 		<updated>2006-11-09T03:32:03Z</updated>
 		<title type="html">OK, so we won. [1]</title>
-		<link rel="alternate" type="text/html" href="http://www.ontheriversedge.com/index.php?id=1255" />
+		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.php?id=1255" />
 		<id>tag:www.ontheriversedge.com,2006-11-08:0c52a63137bc486839ca59ca3b501d56/59d28956a883f5b96804c78825ef64b9</id>
 		<category term="Politics" />
 		<category term="On-the-News" />
@@ -44,7 +44,7 @@
 		<published>2006-10-30T00:56:57Z</published>
 		<updated>2006-10-30T01:00:23Z</updated>
 		<title type="html">NPR visits Madison, Indiana, to talk politics</title>
-		<link rel="alternate" type="text/html" href="http://www.ontheriversedge.com/index.php?id=1249" />
+		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.php?id=1249" />
 		<id>tag:www.ontheriversedge.com,2006-10-29:0c52a63137bc486839ca59ca3b501d56/19852293f5c53106957774f7f55497c3</id>
 		<category term="On-the-News" />
 		<category term="Politics" />
@@ -73,7 +73,7 @@
 		<published>2006-10-23T14:20:19Z</published>
 		<updated>2006-10-23T14:20:19Z</updated>
 		<title type="html">Very interesting: Maps of War</title>
-		<link rel="alternate" type="text/html" href="http://www.ontheriversedge.com/index.php?id=1248" />
+		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.php?id=1248" />
 		<id>tag:www.ontheriversedge.com,2006-10-23:0c52a63137bc486839ca59ca3b501d56/7b7d7ca15b37475873023bcf41544466</id>
 		<category term="Politics" />
 		<category term="On-the-News" />
@@ -88,7 +88,7 @@
 		<published>2006-10-18T01:53:56Z</published>
 		<updated>2006-10-18T01:58:39Z</updated>
 		<title type="html">Arborgeddon</title>
-		<link rel="alternate" type="text/html" href="http://www.ontheriversedge.com/index.php?id=1247" />
+		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.php?id=1247" />
 		<id>tag:www.ontheriversedge.com,2006-10-17:0c52a63137bc486839ca59ca3b501d56/f5fa9f8918df9719a2348727a13a8d59</id>
 		<category term="On-the-News" />
 		
@@ -103,7 +103,7 @@
 		<published>2006-10-17T02:15:00Z</published>
 		<updated>2006-10-17T02:19:30Z</updated>
 		<title type="html">90% of trees battered by Buffalo storm [1]</title>
-		<link rel="alternate" type="text/html" href="http://www.ontheriversedge.com/index.php?id=1245" />
+		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.php?id=1245" />
 		<id>tag:www.ontheriversedge.com,2006-10-16:0c52a63137bc486839ca59ca3b501d56/f336afff173c827ec93335c48a5d45b6</id>
 		<category term="Life" />
 		<category term="On-the-News" />
@@ -126,7 +126,7 @@
 		<published>2006-10-15T03:00:00Z</published>
 		<updated>2006-10-15T03:02:00Z</updated>
 		<title type="html">Worst October storm ever... poor Buffalo</title>
-		<link rel="alternate" type="text/html" href="http://www.ontheriversedge.com/index.php?id=1243" />
+		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.php?id=1243" />
 		<id>tag:www.ontheriversedge.com,2006-10-14:0c52a63137bc486839ca59ca3b501d56/4baab4aa721cefbe44c8ce413c49a73c</id>
 		<category term="On-the-News" />
 		
@@ -150,7 +150,7 @@
 		<published>2006-10-07T00:06:00Z</published>
 		<updated>2006-10-07T00:09:03Z</updated>
 		<title type="html">The First 100 Hours... is this radical?</title>
-		<link rel="alternate" type="text/html" href="http://www.ontheriversedge.com/index.php?id=1238" />
+		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.php?id=1238" />
 		<id>tag:www.ontheriversedge.com,2006-10-06:0c52a63137bc486839ca59ca3b501d56/00dd0e96fe512147b0ad5c2969f98dfe</id>
 		<category term="Politics" />
 		<category term="On-the-News" />
@@ -172,7 +172,7 @@
 		<published>2006-08-17T01:21:00Z</published>
 		<updated>2006-08-17T01:26:20Z</updated>
 		<title type="html">Let's be courteous and welcome the plutons [1]</title>
-		<link rel="alternate" type="text/html" href="http://www.ontheriversedge.com/index.php?id=1226" />
+		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.php?id=1226" />
 		<id>tag:www.ontheriversedge.com,2006-08-16:0c52a63137bc486839ca59ca3b501d56/f1c23230313796437ba2380f184ce200</id>
 		<category term="On-the-News" />
 		<category term="Mac-Tech" />
@@ -192,7 +192,7 @@
 		<published>2006-08-16T16:47:00Z</published>
 		<updated>2006-08-16T19:22:39Z</updated>
 		<title type="html">Dead Sea pottery?</title>
-		<link rel="alternate" type="text/html" href="http://www.ontheriversedge.com/index.php?id=1225" />
+		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.php?id=1225" />
 		<id>tag:www.ontheriversedge.com,2006-08-16:0c52a63137bc486839ca59ca3b501d56/ced46d78014ec7b1bcda8ca24dfe9243</id>
 		<category term="On-the-News" />
 		
@@ -207,7 +207,7 @@
 		<published>2006-08-11T01:46:39Z</published>
 		<updated>2006-08-11T01:46:39Z</updated>
 		<title type="html">Terror alert!</title>
-		<link rel="alternate" type="text/html" href="http://www.ontheriversedge.com/index.php?id=1220" />
+		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.php?id=1220" />
 		<id>tag:www.ontheriversedge.com,2006-08-10:0c52a63137bc486839ca59ca3b501d56/c8d700f3458a0f25bbbd178db88d5a36</id>
 		<category term="On-the-News" />
 		<category term="Politics" />

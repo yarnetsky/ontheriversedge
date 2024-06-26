@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-us" xmlns="http://www.w3.org/2005/Atom"><title type="text">Life on the Rivers Edge - Grad school</title>
 <subtitle type="text">Fact and Fiction in America's most beautiful rivertown</subtitle>
-<link rel="self" href="http://www.ontheriversedge.com/index.php?atom=1&amp;category=Grad-School" />
-<link rel="alternate" type="text/html" href="http://www.ontheriversedge.com/" />
+<link rel="self" https://yarnetsky.github.io/ontheriversedge/index.php?atom=1&amp;category=Grad-School" />
+<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/" />
 <id>tag:www.ontheriversedge.com,2005:0c52a63137bc486839ca59ca3b501d56/Grad-School</id>
 <generator uri="http://textpattern.com/" version="4.5.7">Textpattern</generator>
 <updated>2016-01-16T18:51:23Z</updated>
@@ -19,7 +19,7 @@
 		<published>2006-12-09T23:46:02Z</published>
 		<updated>2006-12-09T23:49:10Z</updated>
 		<title type="html">Do I have cool friends or what? [1]</title>
-		<link rel="alternate" type="text/html" href="http://www.ontheriversedge.com/index.php?id=1259" />
+		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.php?id=1259" />
 		<id>tag:www.ontheriversedge.com,2006-12-09:0c52a63137bc486839ca59ca3b501d56/0f45a1965c7a455abbe523b6b566f045</id>
 		<category term="Grad-School" />
 		
@@ -44,7 +44,7 @@
 		<published>2006-11-21T17:02:55Z</published>
 		<updated>2006-11-21T17:02:55Z</updated>
 		<title type="html">The countdown begins...</title>
-		<link rel="alternate" type="text/html" href="http://www.ontheriversedge.com/index.php?id=1258" />
+		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.php?id=1258" />
 		<id>tag:www.ontheriversedge.com,2006-11-21:0c52a63137bc486839ca59ca3b501d56/817d243ac3bb5d3193e63555dfe2d514</id>
 		<category term="Grad-School" />
 		
@@ -69,7 +69,7 @@
 		<published>2006-08-15T01:59:00Z</published>
 		<updated>2006-08-15T02:00:44Z</updated>
 		<title type="html">Degree audit [1]</title>
-		<link rel="alternate" type="text/html" href="http://www.ontheriversedge.com/index.php?id=1224" />
+		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.php?id=1224" />
 		<id>tag:www.ontheriversedge.com,2006-08-14:0c52a63137bc486839ca59ca3b501d56/b6ed929fd4cdbb4df702fdae8ab11e18</id>
 		<category term="Grad-School" />
 		<category term="Life" />
@@ -88,7 +88,7 @@
 		<published>2006-05-07T20:22:00Z</published>
 		<updated>2006-05-08T02:16:38Z</updated>
 		<title type="html">Finally finished my semester</title>
-		<link rel="alternate" type="text/html" href="http://www.ontheriversedge.com/index.php?id=1209" />
+		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.php?id=1209" />
 		<id>tag:www.ontheriversedge.com,2006-05-07:0c52a63137bc486839ca59ca3b501d56/6e3bdb2781cf9376c4acf64e13007ea3</id>
 		<category term="Life" />
 		<category term="Grad-School" />
@@ -112,7 +112,7 @@
 		<published>2006-04-09T21:33:33Z</published>
 		<updated>2006-04-09T21:33:33Z</updated>
 		<title type="html">A reprieve before the crunch?</title>
-		<link rel="alternate" type="text/html" href="http://www.ontheriversedge.com/index.php?id=1207" />
+		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.php?id=1207" />
 		<id>tag:www.ontheriversedge.com,2006-04-09:0c52a63137bc486839ca59ca3b501d56/359f47076a15061b11b4c55a8cd3567b</id>
 		<category term="Life" />
 		<category term="Grad-School" />
@@ -130,7 +130,7 @@
 		<published>2006-04-01T15:10:09Z</published>
 		<updated>2006-04-01T15:10:09Z</updated>
 		<title type="html">I'm in serious vacation mode</title>
-		<link rel="alternate" type="text/html" href="http://www.ontheriversedge.com/index.php?id=1205" />
+		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.php?id=1205" />
 		<id>tag:www.ontheriversedge.com,2006-04-01:0c52a63137bc486839ca59ca3b501d56/b83ab189f6f277a5946148bd9db8dc84</id>
 		<category term="Grad-School" />
 		<category term="Life" />
@@ -150,7 +150,7 @@
 		<published>2006-03-15T04:22:10Z</published>
 		<updated>2006-03-15T04:22:10Z</updated>
 		<title type="html">Website premieres</title>
-		<link rel="alternate" type="text/html" href="http://www.ontheriversedge.com/index.php?id=1199" />
+		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.php?id=1199" />
 		<id>tag:www.ontheriversedge.com,2006-03-14:0c52a63137bc486839ca59ca3b501d56/46dd4e52624c847bdd23b07b52498460</id>
 		<category term="Library" />
 		<category term="Grad-School" />
@@ -170,7 +170,7 @@
 		<published>2005-12-19T03:25:00Z</published>
 		<updated>2005-12-19T04:42:41Z</updated>
 		<title type="html">The problem with going to grad school...</title>
-		<link rel="alternate" type="text/html" href="http://www.ontheriversedge.com/index.php?id=1180" />
+		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.php?id=1180" />
 		<id>tag:www.ontheriversedge.com,2005-12-18:0c52a63137bc486839ca59ca3b501d56/a076c0d43ded67e77d140f44faf97e15</id>
 		<category term="Grad-School" />
 		
@@ -199,7 +199,7 @@
 		<published>2005-12-14T22:51:00Z</published>
 		<updated>2005-12-17T23:56:50Z</updated>
 		<title type="html">School's finally out [2]</title>
-		<link rel="alternate" type="text/html" href="http://www.ontheriversedge.com/index.php?id=1176" />
+		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.php?id=1176" />
 		<id>tag:www.ontheriversedge.com,2005-12-14:0c52a63137bc486839ca59ca3b501d56/cc4a281412160c6a5c9e94982b0a9191</id>
 		<category term="Life" />
 		<category term="Grad-School" />
@@ -224,20 +224,20 @@
 		<published>2005-11-14T15:41:43Z</published>
 		<updated>2005-11-14T15:41:43Z</updated>
 		<title type="html">I need feedback for grad school project</title>
-		<link rel="alternate" type="text/html" href="http://www.ontheriversedge.com/index.php?id=1174" />
+		<link rel="alternate" type="text/html" https://yarnetsky.github.io/ontheriversedge/index.php?id=1174" />
 		<id>tag:www.ontheriversedge.com,2005-11-14:0c52a63137bc486839ca59ca3b501d56/79cdfd965b5b7d4d8c4435244f4924d1</id>
 		<category term="Grad-School" />
 		<category term="Library" />
 		<content type="html">
-<![CDATA[<p>At midnight tonight I’m turning in a website I developed for my information architecture class (I’m working on my library science masters at Indiana University).</p>
+<![CDATA[<p>At midnight tonight Iï¿½m turning in a website I developed for my information architecture class (Iï¿½m working on my library science masters at Indiana University).</p>
 
-	<p>If any of you wonderful folks would be willing to give it a look and leave me some critical review, that’d be wonderful.</p>
+	<p>If any of you wonderful folks would be willing to give it a look and leave me some critical review, thatï¿½d be wonderful.</p>
 
-	<p>This project is for a rural county public library in southern Indiana (pop. 32,000). I wanted to create a site that put a face on the services and products offered by the library in a way that will interact with the public (though I’m still working on comments). Here’s the test site…</p>
+	<p>This project is for a rural county public library in southern Indiana (pop. 32,000). I wanted to create a site that put a face on the services and products offered by the library in a way that will interact with the public (though Iï¿½m still working on comments). Hereï¿½s the test siteï¿½</p>
 
 	<p><a href="http://madjeffco.ontheriversedge.com">Madison-Jefferson County Public Library</a></p>
 
-	<p>I have a series of questions I’m trying to find answers to. Pick one to answer or pick many. Any feedback is welcome. THANK YOU, THANK YOU, THANK YOU!</p>
+	<p>I have a series of questions Iï¿½m trying to find answers to. Pick one to answer or pick many. Any feedback is welcome. THANK YOU, THANK YOU, THANK YOU!</p>
 
 	<p>Page Layout</p>
 

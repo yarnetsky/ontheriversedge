@@ -3,7 +3,7 @@
 <channel><generator>http://textpattern.com/?v=4.5.7</generator>
 <title>Life on the Rivers Edge - Articles</title>
 <link>http://www.ontheriversedge.com/</link>
-<atom:link href="http://www.ontheriversedge.com/index.php?rss=1&amp;section=Articles" rel="self" type="application/rss+xml" />
+<atom:link https://yarnetsky.github.io/ontheriversedge/index.php?rss=1&amp;section=Articles" rel="self" type="application/rss+xml" />
 <description>Fact and Fiction in America&#039;s most beautiful rivertown</description>
 <pubDate>Sat, 16 Jan 2016 18:51:23 GMT</pubDate>
 
@@ -159,7 +159,7 @@ It&#8217;s a travel website that points you to &#8220;real&#8221; American place
 <content:encoded>
 <![CDATA[<p>They must love their neighbors&#8230;</p>
 
-	<p><a href="http://www.ontheriversedge.com/images/607.jpg"><img src="http://www.ontheriversedge.com/images/607t.jpg" style="width:370px;height:493px;" alt="Jefferson County Republican Party" /></a></p>]]>
+	<p><a https://yarnetsky.github.io/ontheriversedge/images/607.jpg"><img src="http://www.ontheriversedge.com/images/607t.jpg" style="width:370px;height:493px;" alt="Jefferson County Republican Party" /></a></p>]]>
 </content:encoded>
 <link>http://www.ontheriversedge.com/index.php?id=1311</link>
 <pubDate>Fri, 17 Oct 2008 13:32:42 GMT</pubDate>
