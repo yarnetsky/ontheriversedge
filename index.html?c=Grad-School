@@ -24,10 +24,10 @@
 			body	 	{ background: #232F23; }	
 
 			
-			#page		{ background: url("/images/11.gif") repeat-y top; border-left: 2px solid #083013; border-right: 2px solid #083013;} 	
+			#page		{ background: url("https://yarnetsky.github.io/ontheriversedge/images/11.gif") repeat-y top; border-left: 2px solid #083013; border-right: 2px solid #083013;} 	
 
 			
-			#footer 	{ background: url("images/kubrickfooter.jpg") no-repeat bottom; border: none;}
+			#footer 	{ background: url("https://yarnetsky.github.io/ontheriversedge/images/kubrickfooter.jpg") no-repeat bottom; border: none;}
 		</style>
 
 	</head>
@@ -39,7 +39,7 @@
 <div id="page">
       <div id="header">
 
-<img src="/images/10.jpg" alt="Life on the River's Edge" style="height:160px;width:760px" />
+<img src="https://yarnetsky.github.io/ontheriversedge/images/10.jpg" alt="Life on the River's Edge" style="height:160px;width:760px" />
 
       </div>
 
@@ -68,7 +68,7 @@
 
      
 
-  	<p><img src="/images/218.png" style="width:286px;height:438px;" alt="My name on the Ohio Theatre marquee" /></p>
+  	<p><img src="https://yarnetsky.github.io/ontheriversedge/images/218.png" style="width:286px;height:438px;" alt="My name on the Ohio Theatre marquee" /></p>
 
 	<p>Yes, I finally finished work on my master of library science (<span class="caps">MLS</span>) degree yesterday. I finished my last paper at 4:10 p.m. on Friday, Dec. 8, 2006. I should get my grades within the week, I&#8217;ll be certified within the month, receive my diploma in March and go through commencement in May.</p>
 

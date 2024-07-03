@@ -59,8 +59,8 @@
 //
 //	Configuration
 //
-var fileLoadingImage = "http://www.ontheriversedge.com/images/124.gif";		
-var fileBottomNavCloseImage = "http://www.ontheriversedge.com/images/123.gif";
+var fileLoadingImage = "http://www.ontheriversedge.comhttps://yarnetsky.github.io/ontheriversedge/images/124.gif";		
+var fileBottomNavCloseImage = "http://www.ontheriversedge.comhttps://yarnetsky.github.io/ontheriversedge/images/123.gif";
 
 var resizeSpeed = 7;	// controls the speed of the image resizing (1=slowest and 10=fastest)
 

@@ -14,11 +14,11 @@
 		
 
 		<style type="text/css" media="screen">
-			body	 	{ background: url("images/13.gif") fixed center top; }	
-			#page		{ background: url("images/11.gif") repeat-y top; border-left: 2px solid #083013; border-right: 2px solid #083013;} 	
+			body	 	{ background: url("https://yarnetsky.github.io/ontheriversedge/images/13.gif") fixed center top; }	
+			#page		{ background: url("https://yarnetsky.github.io/ontheriversedge/images/11.gif") repeat-y top; border-left: 2px solid #083013; border-right: 2px solid #083013;} 	
 
 			
-			#footer 	{ background: url("images/kubrickfooter.jpg") no-repeat bottom; border: none;}
+			#footer 	{ background: url("https://yarnetsky.github.io/ontheriversedge/images/kubrickfooter.jpg") no-repeat bottom; border: none;}
 		</style>
 
 	</head>
@@ -30,7 +30,7 @@
 <div id="page">
       <div id="header">
 
-<img src="/images/10.jpg" alt="Life on the River's Edge" style="height:160px;width:760px" />
+<img src="https://yarnetsky.github.io/ontheriversedge/images/10.jpg" alt="Life on the River's Edge" style="height:160px;width:760px" />
 
       </div>
 
@@ -174,7 +174,7 @@ The glass fronted rotunda is 10-stories tall with a ceiling of silver, yellow an
 
 	<p>Another person told us that you could stand in one corner of the rotunda and hear a quiet voice in the other corner. Here&#8217;s a wonderful photo from <a href="http://www.gbphoto.com">Gordon Baer</a> that gives you an idea what I&#8217;m talking about.  </p>
 
-<a href="http://www.gbphoto.com/items/025.html"><img src="/images/3t.jpg" title="Cincinnati Union Terminal" alt="Cincinnati Union Terminal" /></a> 
+<a href="http://www.gbphoto.com/items/025.html"><img src="https://yarnetsky.github.io/ontheriversedge/images/3t.jpg" title="Cincinnati Union Terminal" alt="Cincinnati Union Terminal" /></a> 
 
 	<p>Pretty impressive no?</p>
 

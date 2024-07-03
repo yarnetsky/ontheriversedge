@@ -24,10 +24,10 @@
 			body	 	{ background: #232F23; }	
 
 			
-			#page		{ background: url("/images/11.gif") repeat-y top; border-left: 2px solid #083013; border-right: 2px solid #083013;} 	
+			#page		{ background: url("https://yarnetsky.github.io/ontheriversedge/images/11.gif") repeat-y top; border-left: 2px solid #083013; border-right: 2px solid #083013;} 	
 
 			
-			#footer 	{ background: url("images/kubrickfooter.jpg") no-repeat bottom; border: none;}
+			#footer 	{ background: url("https://yarnetsky.github.io/ontheriversedge/images/kubrickfooter.jpg") no-repeat bottom; border: none;}
 		</style>
 
 	</head>
@@ -39,7 +39,7 @@
 <div id="page">
       <div id="header">
 
-<img src="/images/10.jpg" alt="Life on the River's Edge" style="height:160px;width:760px" />
+<img src="https://yarnetsky.github.io/ontheriversedge/images/10.jpg" alt="Life on the River's Edge" style="height:160px;width:760px" />
 
       </div>
 
@@ -94,7 +94,7 @@
 
   	<p>They must love their neighbors&#8230;</p>
 
-	<p><a href="/images/607.jpg"><img src="/images/607t.jpg" style="width:370px;height:493px;" alt="Jefferson County Republican Party" /></a></p>
+	<p><a href="https://yarnetsky.github.io/ontheriversedge/images/607.jpg"><img src="https://yarnetsky.github.io/ontheriversedge/images/607t.jpg" style="width:370px;height:493px;" alt="Jefferson County Republican Party" /></a></p>
 <div class="line"></div>
 
 <div class="smallcat">Posted in <a https://yarnetsky.github.io/ontheriversedge/index.html?c=Madison">Madison</a></div>

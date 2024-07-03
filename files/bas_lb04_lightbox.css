@@ -45,13 +45,13 @@
 #prevLink, #nextLink{
 	width: 49%;
 	height: 100%;
-	background: transparent url(http://www.ontheriversedge.com/images/121.gif) no-repeat; /* Trick IE into showing hover */
+	background: transparent url(http://www.ontheriversedge.comhttps://yarnetsky.github.io/ontheriversedge/images/121.gif) no-repeat; /* Trick IE into showing hover */
 	display: block;
 	}
 #prevLink { left: 0; float: left;}
 #nextLink { right: 0; float: right;}
-#prevLink:hover, #prevLink:visited:hover { background: url(http://www.ontheriversedge.com/images/128.gif) left 15% no-repeat; }
-#nextLink:hover, #nextLink:visited:hover { background: url(http://www.ontheriversedge.com/images/126.gif) right 15% no-repeat; }
+#prevLink:hover, #prevLink:visited:hover { background: url(http://www.ontheriversedge.comhttps://yarnetsky.github.io/ontheriversedge/images/128.gif) left 15% no-repeat; }
+#nextLink:hover, #nextLink:visited:hover { background: url(http://www.ontheriversedge.comhttps://yarnetsky.github.io/ontheriversedge/images/126.gif) right 15% no-repeat; }
 
 
 #imageDataContainer{

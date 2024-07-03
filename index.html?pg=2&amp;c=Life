@@ -17,19 +17,19 @@
 #closeButton{ top: 5px; right: 5px; }
 #lightbox img{ border: none; clear: both;}
 #overlay img{ border: none; }
-#overlay{ background-image: url(http://www.ontheriversedge.com/images/6.png); }
-* html #overlay{background-color: #333;	back\ground-color: transparent;background-image: none;filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://www.ontheriversedge.com/images/6.png", sizingMethod="scale");}
+#overlay{ background-image: url(http://www.ontheriversedge.comhttps://yarnetsky.github.io/ontheriversedge/images/6.png); }
+* html #overlay{background-color: #333;	back\ground-color: transparent;background-image: none;filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://www.ontheriversedge.comhttps://yarnetsky.github.io/ontheriversedge/images/6.png", sizingMethod="scale");}
 -->
 </style>
 
 		
 
 		<style type="text/css" media="screen">
-			body	 	{ background: url("images/13.gif") fixed center top; }	
-			#page		{ background: url("images/11.gif") repeat-y top; border-left: 2px solid #083013; border-right: 2px solid #083013;} 	
+			body	 	{ background: url("https://yarnetsky.github.io/ontheriversedge/images/13.gif") fixed center top; }	
+			#page		{ background: url("https://yarnetsky.github.io/ontheriversedge/images/11.gif") repeat-y top; border-left: 2px solid #083013; border-right: 2px solid #083013;} 	
 
 			
-			#footer 	{ background: url("images/kubrickfooter.jpg") no-repeat bottom; border: none;}
+			#footer 	{ background: url("https://yarnetsky.github.io/ontheriversedge/images/kubrickfooter.jpg") no-repeat bottom; border: none;}
 		</style>
 
 	</head>
@@ -41,7 +41,7 @@
 <div id="page">
       <div id="header">
 
-<img src="/images/10.jpg" alt="Life on the River's Edge" style="height:160px;width:760px" />
+<img src="https://yarnetsky.github.io/ontheriversedge/images/10.jpg" alt="Life on the River's Edge" style="height:160px;width:760px" />
 
       </div>
 
@@ -101,7 +101,7 @@
      
 
   	<p>This is a <a href="http://www.teslamotors.com">sports car</a> I would love to own.</p>
-<a https://yarnetsky.github.io/ontheriversedge/images/9.jpg" rel="lightbox" title=""> <img src="http://www.ontheriversedge.com/images/9t.jpg"  alt="Tesla Roadster"   /> </a><script src="http://www.ontheriversedge.com/?bas_lightbox_js=true" type="text/javascript"></script>
+<a https://yarnetsky.github.io/ontheriversedgehttps://yarnetsky.github.io/ontheriversedge/images/9.jpg" rel="lightbox" title=""> <img src="http://www.ontheriversedge.comhttps://yarnetsky.github.io/ontheriversedge/images/9t.jpg"  alt="Tesla Roadster"   /> </a><script src="http://www.ontheriversedge.com/?bas_lightbox_js=true" type="text/javascript"></script>
 	<p>The <a href="http://www.autoblog.com/2006/07/20/tesla-roadster-unveiling-in-santa-monica/">Tesla Roadster</a>  does 0-60 in 4 seconds, top speed 130mph and&#8212;get this&#8212;zero emissions. </p>
 	<p>It&#8217;s a high-performance electric car that you plug in at night. Full charge in 3.5 hours, 200 to 250 mile range, 135 miles per gallon equivalent, 1 cent a mile. Not bad at all, but this is what makes it <a href="http://wired.com/news/wiredmag/0,71414-0.html?tw=wn_index_1">drool worthy</a> ...</p>
 	<blockquote>
@@ -255,7 +255,7 @@
      
 
   	<p>Over the last dozen years, Hoosier springs have really, really grown on me. Here&#8217;s yet another reason&#8230; (click to expand)</p>
-<a https://yarnetsky.github.io/ontheriversedge/images/5.jpg" rel="lightbox" title="Mustard in the fields near Dupont, Indiana."> <img src="http://www.ontheriversedge.com/images/5t.jpg"  alt="Mustard"   /> </a>
+<a https://yarnetsky.github.io/ontheriversedgehttps://yarnetsky.github.io/ontheriversedge/images/5.jpg" rel="lightbox" title="Mustard in the fields near Dupont, Indiana."> <img src="http://www.ontheriversedge.comhttps://yarnetsky.github.io/ontheriversedge/images/5t.jpg"  alt="Mustard"   /> </a>
 
  
 <div class="line"></div>

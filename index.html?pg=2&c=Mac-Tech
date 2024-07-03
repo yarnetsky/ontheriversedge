@@ -24,10 +24,10 @@
 			body	 	{ background: #232F23; }	
 
 			
-			#page		{ background: url("/images/11.gif") repeat-y top; border-left: 2px solid #083013; border-right: 2px solid #083013;} 	
+			#page		{ background: url("https://yarnetsky.github.io/ontheriversedge/images/11.gif") repeat-y top; border-left: 2px solid #083013; border-right: 2px solid #083013;} 	
 
 			
-			#footer 	{ background: url("images/kubrickfooter.jpg") no-repeat bottom; border: none;}
+			#footer 	{ background: url("https://yarnetsky.github.io/ontheriversedge/images/kubrickfooter.jpg") no-repeat bottom; border: none;}
 		</style>
 
 	</head>
@@ -39,7 +39,7 @@
 <div id="page">
       <div id="header">
 
-<img src="/images/10.jpg" alt="Life on the River's Edge" style="height:160px;width:760px" />
+<img src="https://yarnetsky.github.io/ontheriversedge/images/10.jpg" alt="Life on the River's Edge" style="height:160px;width:760px" />
 
       </div>
 
@@ -125,7 +125,7 @@
 
   	<p>This is a <a href="http://www.teslamotors.com">sports car</a> I would love to own.</p>
 <h2>bas Lightbox</h2><ul class="lightbox">
-	<li><a https://yarnetsky.github.io/ontheriversedge/images/9.jpg" rel="lightbox" title=""><img src="http://www.ontheriversedge.com/images/9t.jpg" alt="Tesla Roadster" /></a></li>
+	<li><a https://yarnetsky.github.io/ontheriversedgehttps://yarnetsky.github.io/ontheriversedge/images/9.jpg" rel="lightbox" title=""><img src="http://www.ontheriversedge.comhttps://yarnetsky.github.io/ontheriversedge/images/9t.jpg" alt="Tesla Roadster" /></a></li>
 </ul>
 	<p>The <a href="http://www.autoblog.com/2006/07/20/tesla-roadster-unveiling-in-santa-monica/">Tesla Roadster</a>  does 0-60 in 4 seconds, top speed 130mph and&#8212;get this&#8212;zero emissions. </p>
 	<p>It&#8217;s a high-performance electric car that you plug in at night. Full charge in 3.5 hours, 200 to 250 mile range, 135 miles per gallon equivalent, 1 cent a mile. Not bad at all, but this is what makes it <a href="http://wired.com/news/wiredmag/0,71414-0.html?tw=wn_index_1">drool worthy</a> ...</p>

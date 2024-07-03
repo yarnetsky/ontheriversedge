@@ -24,10 +24,10 @@
 			body	 	{ background: #232F23; }	
 
 			
-			#page		{ background: url("/images/11.gif") repeat-y top; border-left: 2px solid #083013; border-right: 2px solid #083013;} 	
+			#page		{ background: url("https://yarnetsky.github.io/ontheriversedge/images/11.gif") repeat-y top; border-left: 2px solid #083013; border-right: 2px solid #083013;} 	
 
 			
-			#footer 	{ background: url("images/kubrickfooter.jpg") no-repeat bottom; border: none;}
+			#footer 	{ background: url("https://yarnetsky.github.io/ontheriversedge/images/kubrickfooter.jpg") no-repeat bottom; border: none;}
 		</style>
 
 	</head>
@@ -39,7 +39,7 @@
 <div id="page">
       <div id="header">
 
-<img src="/images/10.jpg" alt="Life on the River's Edge" style="height:160px;width:760px" />
+<img src="https://yarnetsky.github.io/ontheriversedge/images/10.jpg" alt="Life on the River's Edge" style="height:160px;width:760px" />
 
       </div>
 
@@ -70,7 +70,7 @@
 
   	<p>They must love their neighbors&#8230;</p>
 
-	<p><a href="/images/607.jpg"><img src="/images/607t.jpg" style="width:370px;height:493px;" alt="Jefferson County Republican Party" /></a></p>
+	<p><a href="https://yarnetsky.github.io/ontheriversedge/images/607.jpg"><img src="https://yarnetsky.github.io/ontheriversedge/images/607t.jpg" style="width:370px;height:493px;" alt="Jefferson County Republican Party" /></a></p>
 <div class="line"></div>
 
 <div class="smallcat">Posted in <a https://yarnetsky.github.io/ontheriversedge/index.html?c=Madison">Madison</a></div>
@@ -136,7 +136,7 @@ Two houses behind the Elks were also heavily damaged. </p>
 	<p>These buildings are not quite as old as others downtown. The Elk&#8217;s Lodge was built around 1902 and <a href="http://madison-jeffco.cdmhost.com/cgi-bin/viewer.exe?CISOROOT=/p4038coll5&#38;CISOPTR=26">the old City Hall c.1880</a> I believe. Thus the brickwork may have survived better than some of the older buildings with softer brick. However, reproducing the tin work could take a chunk of cash and that is what I fear will be forever lost. There was a bad fire on Main Street maybe 9 years ago and the cornice has yet to be rebuilt. The homes around the corner were from the 1830s, but other than knowing the roof was about to cave in, I don&#8217;t know their condition.</p>
 	<p>News of the fire got around fast, but they did not describe well where the fire was located. Thus calls to town were flying. Some good friends who had just bought a building here called when they heard about the fire on Indianapolis radio. People were calling the library to see if we were open. </p>
 	<p>Thus here&#8217;s the location. It was on West Street in the block north of Main. We live about four blocks to the southeast and the library is about four blocks west of this location.  (Click for an interactive map.)</p>
-	<p><a href="http://maps.google.com/maps?f=q&#38;hl=en&#38;q=440+West+St,+Madison,+Indiana&#38;ie=UTF8&#38;z=15&#38;ll=38.738151,-85.380077&#38;spn=0.014227,0.037766&#38;om=1&#38;iwloc=A"><img src="/images/50.jpg" alt="location of fire in downtown Madison" style="height:222px;width:345px" border="0" /></a></p>
+	<p><a href="http://maps.google.com/maps?f=q&#38;hl=en&#38;q=440+West+St,+Madison,+Indiana&#38;ie=UTF8&#38;z=15&#38;ll=38.738151,-85.380077&#38;spn=0.014227,0.037766&#38;om=1&#38;iwloc=A"><img src="https://yarnetsky.github.io/ontheriversedge/images/50.jpg" alt="location of fire in downtown Madison" style="height:222px;width:345px" border="0" /></a></p>
 	<p>I took some photos this afternoon for the library archives and I&#8217;ll post a few later.</p>
 
  
