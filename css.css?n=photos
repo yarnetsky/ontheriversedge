@@ -260,7 +260,7 @@ h2.pen
 	margin-bottom:  1px;
 	margin-left:  0px;
 	padding:  6px 2px 2px 24px;
-	background:  url(..https://yarnetsky.github.io/ontheriversedge/images/pen1.gif) no-repeat 0px 4px;
+	background:  url(https://yarnetsky.github.io/ontheriversedge/images/pen1.gif) no-repeat 0px 4px;
 }
 
 h2.pagetitle
@@ -269,7 +269,7 @@ h2.pagetitle
 	height:  1em;
 	margin:  20px 0 20px 0;
 	padding:  9px 2px 12px 44px;
-	background:  #ffffff url(..https://yarnetsky.github.io/ontheriversedge/images/bigarchive.gif) no-repeat 6px 3px;
+	background:  #ffffff url(https://yarnetsky.github.io/ontheriversedge/images/bigarchive.gif) no-repeat 6px 3px;
 	border:  1px solid #cccccc;
 	-moz-border-radius:  5px;
 }
@@ -378,7 +378,7 @@ small
 	padding:  0px 0px 0px 14px;
 	margin:  0 0 0 0;
 	margin-bottom:  2px;
-	background:  url(..https://yarnetsky.github.io/ontheriversedge/images/posttime.gif) no-repeat 0px 0px;
+	background:  url(https://yarnetsky.github.io/ontheriversedge/images/posttime.gif) no-repeat 0px 0px;
 }
 
 .post-date
@@ -406,7 +406,7 @@ small
 	color:  #333;
 	font-size:  0.8em;
 	padding:  0px 0px 0px 14px;
-	background:  url(..https://yarnetsky.github.io/ontheriversedge/images/postuser.gif) no-repeat 0px -2px;
+	background:  url(https://yarnetsky.github.io/ontheriversedge/images/postuser.gif) no-repeat 0px -2px;
 }
 
 .smallcat
@@ -418,7 +418,7 @@ small
 	color:  #333;
 	font-size:  0.8em;
 	padding:  0px 0px 0px 14px;
-	background:  url(..https://yarnetsky.github.io/ontheriversedge/images/postcat.gif) no-repeat 0px 0px;
+	background:  url(https://yarnetsky.github.io/ontheriversedge/images/postcat.gif) no-repeat 0px 0px;
 }
 
 .smallcomments
@@ -430,7 +430,7 @@ small
 	color:  #333;
 	font-size:  0.8em;
 	padding:  0px 0px 0px 14px;
-	background:  url(..https://yarnetsky.github.io/ontheriversedge/images/postcomment.gif) no-repeat 0px 0px;
+	background:  url(https://yarnetsky.github.io/ontheriversedge/images/postcomment.gif) no-repeat 0px 0px;
 }
 
 .entry
@@ -461,7 +461,7 @@ small
 	margin-bottom:  10px;
 	margin-left:  0px;
 	padding:  5px 10px 5px 30px;
-	background:  #ffffff url(..https://yarnetsky.github.io/ontheriversedge/images/archive.gif) no-repeat 6px 6px;
+	background:  #ffffff url(https://yarnetsky.github.io/ontheriversedge/images/archive.gif) no-repeat 6px 6px;
 	border:  1px solid #cccccc;
 	-moz-border-radius:  5px;
 }
