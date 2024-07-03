@@ -7,7 +7,7 @@
 <meta name="verify-v1" content="vaflIkiC67qvAvz0nfPTEA3IDodYNYWJ0aS/b2IeJ9w=" />
 <title>Life on the Rivers Edge: Politics</title>		
 
-<link rel="stylesheet" https://yarnetsky.github.io/ontheriversedge/textpattern/default.css" type="text/css" />
+<link rel="stylesheet" src="https://yarnetsky.github.io/ontheriversedge/textpattern/default.css" type="text/css" />
 <script type='text/javascript' src='http://www.ontheriversedge.com/files/bas_lb04_prototype.js'></script>
 <script type='text/javascript' src='http://www.ontheriversedge.com/files/bas_lb04_scriptaculous.js?load=effects'></script>
 <script type='text/javascript' src='http://www.ontheriversedge.com/files/bas_lb04_lightbox.js'></script>
